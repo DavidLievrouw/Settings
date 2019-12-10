@@ -1,0 +1,15 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '...\AdminSDK.Tests\Adapters\RowsByLookupCreationDocumentTypeRuleAdapterTests.cs'" />
+    <option name="defaultScopeName" value="File '...\AdminSDK.Tests\Adapters\RowsByLookupCreationDocumentTypeRuleAdapterTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Tests\Adapters\RowsByLookupCreationDocumentTypeRuleAdapterTests.cs'" />
+    <option name="FILE_MASK" value="*.*" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cs</mask>
+    <mask>*.ts</mask>
+    <mask>*.ts*</mask>
+    <mask>*.*</mask>
+  </component>
+</application>
