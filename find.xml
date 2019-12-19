@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Localisation.Tests\Services\TranslationDocFactoryTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Localisation.Tests\Services\TranslationDocFactoryTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Localisation.Tests\Services\TranslationDocFactoryTests.cs'" />
+    <option name="customScope" value="File '...\Portal\Migrations\Before\InitTranslations.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal\Migrations\Before\InitTranslations.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal\Migrations\Before\InitTranslations.cs'" />
     <option name="FILE_MASK" value="*.*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
