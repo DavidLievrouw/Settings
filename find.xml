@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '...\Delegations.Tests\Api\Controllers\Workflow10Users\Workflow10UsersControllerTests.GetWorkflow10Users.cs'" />
+    <option name="defaultScopeName" value="File '...\Delegations.Tests\Api\Controllers\Workflow10Users\Workflow10UsersControllerTests.GetWorkflow10Users.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Delegations.Tests\Api\Controllers\Workflow10Users\Workflow10UsersControllerTests.GetWorkflow10Users.cs'" />
     <option name="FILE_MASK" value="*.*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
