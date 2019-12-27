@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Delegations.Api\Security\DelegationsManagerClaimAppender.cs'" />
-    <option name="defaultScopeName" value="File '...\Delegations.Api\Security\DelegationsManagerClaimAppender.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Delegations.Api\Security\DelegationsManagerClaimAppender.cs'" />
+    <option name="customScope" value="File '...\Delegations.Tests\Api\Security\DelegationsManagerClaimAppenderTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Delegations.Tests\Api\Security\DelegationsManagerClaimAppenderTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Delegations.Tests\Api\Security\DelegationsManagerClaimAppenderTests.cs'" />
     <option name="FILE_MASK" value="*.*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
