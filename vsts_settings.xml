@@ -64,13 +64,30 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Major new release of our Workflow solution to manage digital document flows throughout organisations.&quot;,&quot;id&quot;:&quot;7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;,&quot;name&quot;:&quot;RecoMatics.EasyForm.Workflow.10&quot;,&quot;revision&quot;:55985155,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;57a589cb-ac6a-4dc4-80bb-cdb94a05a619&quot;,&quot;name&quot;:&quot;Delegations&quot;,&quot;remoteUrl&quot;:&quot;https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/Delegations&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/git/repositories/57a589cb-ac6a-4dc4-80bb-cdb94a05a619&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Major new release of our Workflow solution to manage digital document flows throughout organisations.&quot;,&quot;id&quot;:&quot;7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;,&quot;name&quot;:&quot;RecoMatics.EasyForm.Workflow.10&quot;,&quot;revision&quot;:55985155,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;}}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://davidlievrouw.visualstudio.com/Fiddles/_git/Fiddles" />
+          <option name="serverUri" value="https://davidlievrouw.visualstudio.com" />
+          <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e368d4a3-9ce6-4598-a48b-aebd327fb1e3&quot;,&quot;name&quot;:&quot;davidlievrouw&quot;,&quot;url&quot;:&quot;https://davidlievrouw.visualstudio.com/_apis/projectCollections/e368d4a3-9ce6-4598-a48b-aebd327fb1e3&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6ef42f91-69e6-4a35-8f02-42462eb30b8b&quot;,&quot;name&quot;:&quot;Fiddles&quot;,&quot;revision&quot;:96,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://davidlievrouw.visualstudio.com/_apis/projects/6ef42f91-69e6-4a35-8f02-42462eb30b8b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;6ebb29d5-6b8e-45a7-9a45-51a3e70fc750&quot;,&quot;name&quot;:&quot;Fiddles&quot;,&quot;remoteUrl&quot;:&quot;https://davidlievrouw.visualstudio.com/Fiddles/_git/Fiddles&quot;,&quot;url&quot;:&quot;https://davidlievrouw.visualstudio.com/_apis/git/repositories/6ebb29d5-6b8e-45a7-9a45-51a3e70fc750&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6ef42f91-69e6-4a35-8f02-42462eb30b8b&quot;,&quot;name&quot;:&quot;Fiddles&quot;,&quot;revision&quot;:96,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://davidlievrouw.visualstudio.com/_apis/projects/6ef42f91-69e6-4a35-8f02-42462eb30b8b&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://davidlievrouw.visualstudio.com" />
+          <option name="serverUri" value="https://davidlievrouw.visualstudio.com" />
+          <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//recomatics.visualstudio.com/recomatics.easyform.workflow.10/_git/gateway" />
+          <option name="value" value="//davidlievrouw.visualstudio.com/fiddles/_git/fiddles" />
         </PropertyState>
       </array>
     </option>
