@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Tests\UI\Services\ApplicationUrlInfoProviderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Tests\UI\Services\ApplicationUrlInfoProviderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\UI\Services\ApplicationUrlInfoProviderTests.cs'" />
+    <option name="customScope" value="File '...\Portal.Tests\UI\Controllers\Landing\LandingControllerTests.GetLandingActions.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Tests\UI\Controllers\Landing\LandingControllerTests.GetLandingActions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\UI\Controllers\Landing\LandingControllerTests.GetLandingActions.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
