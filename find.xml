@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\AdminSDK.Localisation\Builders\Translations\CultureBuilder.cs'" />
-    <option name="defaultScopeName" value="File '...\AdminSDK.Localisation\Builders\Translations\CultureBuilder.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Localisation\Builders\Translations\CultureBuilder.cs'" />
+    <option name="customScope" value="File '...\Portal.Data\DataModels\TaskActions.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Data\DataModels\TaskActions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Data\DataModels\TaskActions.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
