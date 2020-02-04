@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.Authentication\Extensions.AuthenticationBuilder.AddCookieForMods.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.Authentication\Extensions.AuthenticationBuilder.AddCookieForMods.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.Authentication\Extensions.AuthenticationBuilder.AddCookieForMods.cs'" />
+    <option name="customScope" value="File '...\HelloWorldMod\Startup\Composition.cs'" />
+    <option name="defaultScopeName" value="File '...\HelloWorldMod\Startup\Composition.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HelloWorldMod\Startup\Composition.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
