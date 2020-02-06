@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Delegations.Tests\Api\Controllers\UserInfo\UserInfoControllerTests.GetPhoto.cs'" />
-    <option name="defaultScopeName" value="File '...\Delegations.Tests\Api\Controllers\UserInfo\UserInfoControllerTests.GetPhoto.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Delegations.Tests\Api\Controllers\UserInfo\UserInfoControllerTests.GetPhoto.cs'" />
+    <option name="customScope" value="File '...\Delegations.Tests\Configuration\Mappers\UISettingsMapperTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Delegations.Tests\Configuration\Mappers\UISettingsMapperTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Delegations.Tests\Configuration\Mappers\UISettingsMapperTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
