@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Delegations\Startup\Extensions.IServiceCollection.cs'" />
-    <option name="defaultScopeName" value="File '...\Delegations\Startup\Extensions.IServiceCollection.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Delegations\Startup\Extensions.IServiceCollection.cs'" />
+    <option name="customScope" value="File '...\Extensions.Authentication.Tests\Services\SecurityTokenClaimsAssignerTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.Authentication.Tests\Services\SecurityTokenClaimsAssignerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.Authentication.Tests\Services\SecurityTokenClaimsAssignerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
