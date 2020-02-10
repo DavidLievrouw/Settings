@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\UIModTemplate.Tests\Api\Controllers\UserInfo\Services\GraphClientTests.cs'" />
-    <option name="defaultScopeName" value="File '...\UIModTemplate.Tests\Api\Controllers\UserInfo\Services\GraphClientTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\UIModTemplate.Tests\Api\Controllers\UserInfo\Services\GraphClientTests.cs'" />
+    <option name="customScope" value="File '...\Extensions.Authentication\Services\JsonWebKeysReader.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.Authentication\Services\JsonWebKeysReader.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.Authentication\Services\JsonWebKeysReader.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
