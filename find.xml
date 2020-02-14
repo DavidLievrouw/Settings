@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Migrator\Scenarios\Retry\CustomRetryPolicy.cs'" />
-    <option name="defaultScopeName" value="File '...\Migrator\Scenarios\Retry\CustomRetryPolicy.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Migrator\Scenarios\Retry\CustomRetryPolicy.cs'" />
+    <option name="customScope" value="File '...\Sample.NetFramework\Global.asax.cs'" />
+    <option name="defaultScopeName" value="File '...\Sample.NetFramework\Global.asax.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Sample.NetFramework\Global.asax.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
