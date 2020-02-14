@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Migrator.Tests\Scenarios\Retry\ExponentialBackOffRetryPolicyTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Migrator.Tests\Scenarios\Retry\ExponentialBackOffRetryPolicyTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Migrator.Tests\Scenarios\Retry\ExponentialBackOffRetryPolicyTests.cs'" />
+    <option name="customScope" value="File '...\Migrator\Scenarios\Retry\CustomRetryPolicy.cs'" />
+    <option name="defaultScopeName" value="File '...\Migrator\Scenarios\Retry\CustomRetryPolicy.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Migrator\Scenarios\Retry\CustomRetryPolicy.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
