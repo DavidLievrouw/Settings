@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Tests\HashAlgorithmFactoryTests.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Tests\HashAlgorithmFactoryTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Tests\HashAlgorithmFactoryTests.cs'" />
+    <option name="customScope" value="File '...\Sample\Program.cs'" />
+    <option name="defaultScopeName" value="File '...\Sample\Program.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Sample\Program.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
