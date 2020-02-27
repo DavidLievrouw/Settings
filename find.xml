@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Sample\Extensions.HttpRequestMessage.cs'" />
-    <option name="defaultScopeName" value="File '...\Sample\Extensions.HttpRequestMessage.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Sample\Extensions.HttpRequestMessage.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning\RequestSigningTask.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning\RequestSigningTask.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning\RequestSigningTask.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
