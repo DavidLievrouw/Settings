@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Tests\Verification\AuthenticationScheme\SignedRequestAuthenticationHandlerTests.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Tests\Verification\AuthenticationScheme\SignedRequestAuthenticationHandlerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Tests\Verification\AuthenticationScheme\SignedRequestAuthenticationHandlerTests.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Tests\Verification\VerificationTasks\AllHeadersPresentVerificationTaskTests.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Tests\Verification\VerificationTasks\AllHeadersPresentVerificationTaskTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Tests\Verification\VerificationTasks\AllHeadersPresentVerificationTaskTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
