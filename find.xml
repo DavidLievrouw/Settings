@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Tests\Verification\MongoDb\MongoDbClientStoreTests.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Tests\Verification\MongoDb\MongoDbClientStoreTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Tests\Verification\MongoDb\MongoDbClientStoreTests.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification.MongoDb\Extensions.RSA.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.MongoDb\Extensions.RSA.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.MongoDb\Extensions.RSA.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
