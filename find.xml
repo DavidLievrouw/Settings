@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.Serialization.Abstractions\ISerializer.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.Serialization.Abstractions\ISerializer.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.Serialization.Abstractions\ISerializer.cs'" />
+    <option name="customScope" value="File '...\HelloWorldMod\Controllers\HomeController.cs'" />
+    <option name="defaultScopeName" value="File '...\HelloWorldMod\Controllers\HomeController.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HelloWorldMod\Controllers\HomeController.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
