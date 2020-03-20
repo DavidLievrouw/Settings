@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Verification.Owin.Tests\CompositionTests.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.Owin.Tests\CompositionTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.Owin.Tests\CompositionTests.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification\InMemoryNonceStore.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification\InMemoryNonceStore.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification\InMemoryNonceStore.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
