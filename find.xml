@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\AdminSDK\Builders\LookupDefinitions\ILookupColumnDefinitionDataTypeDecider.cs'" />
-    <option name="defaultScopeName" value="File '...\AdminSDK\Builders\LookupDefinitions\ILookupColumnDefinitionDataTypeDecider.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\AdminSDK\Builders\LookupDefinitions\ILookupColumnDefinitionDataTypeDecider.cs'" />
+    <option name="customScope" value="File '...\AdminSDK.Tests\Builders\LookupDefinitions\LookupColumnDefinitionDataTypeDeciderTests.cs'" />
+    <option name="defaultScopeName" value="File '...\AdminSDK.Tests\Builders\LookupDefinitions\LookupColumnDefinitionDataTypeDeciderTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Tests\Builders\LookupDefinitions\LookupColumnDefinitionDataTypeDeciderTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
