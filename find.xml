@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\AdminSDK.Workflow10Api\RecurringJobs\RecurringJobAdapter.cs'" />
-    <option name="defaultScopeName" value="File '...\AdminSDK.Workflow10Api\RecurringJobs\RecurringJobAdapter.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Workflow10Api\RecurringJobs\RecurringJobAdapter.cs'" />
+    <option name="customScope" value="File '...\AdminSDK\Builders\RecurringJobs\MasterdataFileSynchronizationInvocationArgumentsBuilder.cs'" />
+    <option name="defaultScopeName" value="File '...\AdminSDK\Builders\RecurringJobs\MasterdataFileSynchronizationInvocationArgumentsBuilder.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AdminSDK\Builders\RecurringJobs\MasterdataFileSynchronizationInvocationArgumentsBuilder.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
