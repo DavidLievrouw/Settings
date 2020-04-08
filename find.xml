@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Directory '...\AdminSDK.Localisation\Synchronization'" />
+    <option name="defaultScopeName" value="Directory '...\AdminSDK.Localisation\Synchronization'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\AdminSDK.Localisation\Synchronization'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
