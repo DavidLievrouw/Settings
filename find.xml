@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Api\Controllers\Initialization\InitializationController.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Api\Controllers\Initialization\InitializationController.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Api\Controllers\Initialization\InitializationController.cs'" />
+    <option name="customScope" value="File '...\Configuration.Api\Controllers\GlobalVariables\Models\Validators\GetGlobalVariablesRequestValidator.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Api\Controllers\GlobalVariables\Models\Validators\GetGlobalVariablesRequestValidator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Api\Controllers\GlobalVariables\Models\Validators\GetGlobalVariablesRequestValidator.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
