@@ -8,8 +8,9 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="10" />
-    <option name="FONT_FAMILY" value="Fira Code Medium" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
