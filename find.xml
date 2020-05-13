@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\VariablesControllerTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\VariablesControllerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\VariablesControllerTests.cs'" />
+    <option name="customScope" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\VariablesControllerTests.UpdateGlobalVariable.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\VariablesControllerTests.UpdateGlobalVariable.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\VariablesControllerTests.UpdateGlobalVariable.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
