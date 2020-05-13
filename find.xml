@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\Models\Validators\VariableValidatorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\Models\Validators\VariableValidatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Api\Controllers\GlobalVariables\Models\Validators\VariableValidatorTests.cs'" />
+    <option name="customScope" value="File '...\Configuration.Api\Controllers\GlobalVariables\Models\Validators\GlobalVariableForUpdateValidator.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Api\Controllers\GlobalVariables\Models\Validators\GlobalVariableForUpdateValidator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Api\Controllers\GlobalVariables\Models\Validators\GlobalVariableForUpdateValidator.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
