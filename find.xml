@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Domain\Models\DecimalConfigSetting.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Domain\Models\DecimalConfigSetting.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Domain\Models\DecimalConfigSetting.cs'" />
+    <option name="customScope" value="File '...\Configuration.Tests\Domain\Models\ValuedConfigSettingTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Tests\Domain\Models\ValuedConfigSettingTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Domain\Models\ValuedConfigSettingTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
