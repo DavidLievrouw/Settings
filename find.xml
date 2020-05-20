@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.IntegrationTests\Data\ConfigSettingDataServiceTests.SaveConfigSettingGraph.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.IntegrationTests\Data\ConfigSettingDataServiceTests.SaveConfigSettingGraph.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.IntegrationTests\Data\ConfigSettingDataServiceTests.SaveConfigSettingGraph.cs'" />
+    <option name="customScope" value="Project 'Configuration.IntegrationTests'" />
+    <option name="defaultScopeName" value="Project 'Configuration.IntegrationTests'" />
+    <option name="SEARCH_SCOPE" value="Project 'Configuration.IntegrationTests'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
