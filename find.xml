@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="File '...\Configuration.Tests\Domain\ConfigSettingRepositoryTests.GetAllConfigSettings.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Tests\Domain\ConfigSettingRepositoryTests.GetAllConfigSettings.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Domain\ConfigSettingRepositoryTests.GetAllConfigSettings.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
