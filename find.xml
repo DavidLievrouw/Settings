@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Api\Controllers\ConfigSettings\Models\Validators\ConfigSettingForUpdateValidator.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Api\Controllers\ConfigSettings\Models\Validators\ConfigSettingForUpdateValidator.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Api\Controllers\ConfigSettings\Models\Validators\ConfigSettingForUpdateValidator.cs'" />
+    <option name="customScope" value="File '...\Configuration.Api\Controllers\ConfigSettings\Models\Mappers\ConfigSettingMapper.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Api\Controllers\ConfigSettings\Models\Mappers\ConfigSettingMapper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Api\Controllers\ConfigSettings\Models\Mappers\ConfigSettingMapper.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
