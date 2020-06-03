@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Tests\Api\Controllers\ConfigSettings\Models\Validators\GetConfigSettingRequestValidatorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Tests\Api\Controllers\ConfigSettings\Models\Validators\GetConfigSettingRequestValidatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Api\Controllers\ConfigSettings\Models\Validators\GetConfigSettingRequestValidatorTests.cs'" />
+    <option name="customScope" value="File '...\Configuration.Tests\Utils\ShortGuidTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Tests\Utils\ShortGuidTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Utils\ShortGuidTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
