@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Tests\Configuration\ViewMapperFactory.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Tests\Configuration\ViewMapperFactory.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Configuration\ViewMapperFactory.cs'" />
+    <option name="customScope" value="File '...\Portal.Tests\Api\Controllers\Configuration\Models\Validators\GetLandingActionsRequestValidatorTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Controllers\Configuration\Models\Validators\GetLandingActionsRequestValidatorTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Controllers\Configuration\Models\Validators\GetLandingActionsRequestValidatorTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
