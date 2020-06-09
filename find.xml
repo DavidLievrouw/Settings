@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Tests\Api\Controllers\Configuration\Services\TaskListColumnDataTypeResolverTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Controllers\Configuration\Services\TaskListColumnDataTypeResolverTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Controllers\Configuration\Services\TaskListColumnDataTypeResolverTests.cs'" />
+    <option name="customScope" value="File '...\Portal.Domain\Models\DocumentTypeFieldPath.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Domain\Models\DocumentTypeFieldPath.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Domain\Models\DocumentTypeFieldPath.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
