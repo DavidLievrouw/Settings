@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Data\IConfigSettingDataServiceFactory.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Data\IConfigSettingDataServiceFactory.cs'" />
+    <option name="customScope" value="File '...\Configuration.Api\Controllers\Configuration\Models\SquashedConfigurationEntry.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.Api\Controllers\Configuration\Models\SquashedConfigurationEntry.cs'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Data\IConfigSettingDataServiceFactory.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.Api\Controllers\Configuration\Models\SquashedConfigurationEntry.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
