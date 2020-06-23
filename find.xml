@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.SystemTests\Api\Controllers\GlobalVariables\GlobalVariablesControllerTests.DeleteGlobalVariable.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.SystemTests\Api\Controllers\GlobalVariables\GlobalVariablesControllerTests.DeleteGlobalVariable.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.SystemTests\Api\Controllers\GlobalVariables\GlobalVariablesControllerTests.DeleteGlobalVariable.cs'" />
+    <option name="customScope" value="File '...\Configuration\Migrations\M0001_RegisterKnownConfigurationClients.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration\Migrations\M0001_RegisterKnownConfigurationClients.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration\Migrations\M0001_RegisterKnownConfigurationClients.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
