@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Tests\Api\Controllers\Actions\Models\Validators\TaskIdentifierValidatorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Controllers\Actions\Models\Validators\TaskIdentifierValidatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Controllers\Actions\Models\Validators\TaskIdentifierValidatorTests.cs'" />
+    <option name="customScope" value="File '...\Portal.Api\Controllers\Actions\Handlers\GetCommonDocumentTypesForTasksHandler.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Api\Controllers\Actions\Handlers\GetCommonDocumentTypesForTasksHandler.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Api\Controllers\Actions\Handlers\GetCommonDocumentTypesForTasksHandler.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
