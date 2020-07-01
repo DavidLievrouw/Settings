@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Bootstrapping\Extensions.IServiceCollection.cs'" />
-    <option name="defaultScopeName" value="File '...\Bootstrapping\Extensions.IServiceCollection.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Bootstrapping\Extensions.IServiceCollection.cs'" />
+    <option name="customScope" value="File '...\Extensions.ConfigurationClient.Tests\ConfigServerSettingsFileTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.ConfigurationClient.Tests\ConfigServerSettingsFileTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.ConfigurationClient.Tests\ConfigServerSettingsFileTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
