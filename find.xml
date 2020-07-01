@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HelloWorldMod\Configuration\AuthenticationSettings.cs'" />
-    <option name="defaultScopeName" value="File '...\HelloWorldMod\Configuration\AuthenticationSettings.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HelloWorldMod\Configuration\AuthenticationSettings.cs'" />
+    <option name="customScope" value="File '...\Bootstrapping\Extensions.IServiceCollection.cs'" />
+    <option name="defaultScopeName" value="File '...\Bootstrapping\Extensions.IServiceCollection.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Bootstrapping\Extensions.IServiceCollection.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
