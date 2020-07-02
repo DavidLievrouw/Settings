@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\Configuration.SystemTests\Api\Controllers\Configuration\ConfigurationControllerTests.WikiScenario.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.SystemTests\Api\Controllers\Configuration\ConfigurationControllerTests.WikiScenario.cs'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.SystemTests\Api\Controllers\Configuration\ConfigurationControllerTests.WikiScenario.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
