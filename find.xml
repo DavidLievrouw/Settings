@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="File '...\src\services\settings\ConfigSettingsFinderTests.ts'" />
+    <option name="defaultScopeName" value="File '...\src\services\settings\ConfigSettingsFinderTests.ts'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="File '...\src\services\settings\ConfigSettingsFinderTests.ts'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
