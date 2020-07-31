@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Tests\Api\Applications\Validators\ClaimValidatorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Applications\Validators\ClaimValidatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Applications\Validators\ClaimValidatorTests.cs'" />
+    <option name="customScope" value="File '...\Portal.Api\Controllers\Applications\Models\Application.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Api\Controllers\Applications\Models\Application.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Api\Controllers\Applications\Models\Application.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
