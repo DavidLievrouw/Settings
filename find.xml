@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
+    <option name="customScope" value="File '...\Portal.Tests\Api\Controllers\Applications\Handlers\GetApplicationsHandlerTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Controllers\Applications\Handlers\GetApplicationsHandlerTests.cs'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Controllers\Applications\Handlers\GetApplicationsHandlerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
