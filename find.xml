@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\PortalClient\Models\User.cs'" />
-    <option name="defaultScopeName" value="File '...\PortalClient\Models\User.cs'" />
+    <option name="customScope" value="File '...\PortalClient\IPortalClientFactory.cs'" />
+    <option name="defaultScopeName" value="File '...\PortalClient\IPortalClientFactory.cs'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\PortalClient\Models\User.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\PortalClient\IPortalClientFactory.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
