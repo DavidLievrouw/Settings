@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\PortalClient\LoggingPortalClient.cs'" />
-    <option name="defaultScopeName" value="File '...\PortalClient\LoggingPortalClient.cs'" />
+    <option name="customScope" value="File '...\PortalClient\Parts\IApiPart.cs'" />
+    <option name="defaultScopeName" value="File '...\PortalClient\Parts\IApiPart.cs'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\PortalClient\LoggingPortalClient.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\PortalClient\Parts\IApiPart.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
