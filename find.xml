@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\PortalClient.Tests\Parts\ExtensionsTests.ILogger.cs'" />
-    <option name="defaultScopeName" value="File '...\PortalClient.Tests\Parts\ExtensionsTests.ILogger.cs'" />
+    <option name="customScope" value="Selected Files And Folders" />
+    <option name="defaultScopeName" value="Selected Files And Folders" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\PortalClient.Tests\Parts\ExtensionsTests.ILogger.cs'" />
+    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
