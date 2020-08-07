@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpClient\IHttpClientFactory.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpClient\IHttpClientFactory.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpClient\IHttpClientFactory.cs'" />
+    <option name="customScope" value="File '...\Sample.NetCore\appsettings.json'" />
+    <option name="defaultScopeName" value="File '...\Sample.NetCore\appsettings.json'" />
+    <option name="SEARCH_SCOPE" value="File '...\Sample.NetCore\appsettings.json'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
