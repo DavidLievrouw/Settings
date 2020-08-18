@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning\ISignatureAlgorithm.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning\ISignatureAlgorithm.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning\ISignatureAlgorithm.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning\Extensions.UrlDecode.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning\Extensions.UrlDecode.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning\Extensions.UrlDecode.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
