@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Verification.Owin.Tests\ExtensionsTests.IOwinRequest.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.Owin.Tests\ExtensionsTests.IOwinRequest.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.Owin.Tests\ExtensionsTests.IOwinRequest.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification.AspNetCore\RequestSignatureVerifier.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.AspNetCore\RequestSignatureVerifier.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.AspNetCore\RequestSignatureVerifier.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
