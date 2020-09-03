@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '...\HttpMessageSigning\SigningSettings.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning\SigningSettings.cs'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning\SigningSettings.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
