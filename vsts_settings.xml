@@ -165,6 +165,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/ClientSDK" />
+          <option name="serverUri" value="https://recomatics.visualstudio.com" />
+          <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;,&quot;name&quot;:&quot;recomatics&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projectCollections/d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Major new release of our Workflow solution to manage digital document flows throughout organisations.&quot;,&quot;id&quot;:&quot;7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;,&quot;name&quot;:&quot;RecoMatics.EasyForm.Workflow.10&quot;,&quot;revision&quot;:55985325,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;56afdb48-b2a8-462d-a6ff-cb29b35ae8b3&quot;,&quot;name&quot;:&quot;ClientSDK&quot;,&quot;remoteUrl&quot;:&quot;https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/ClientSDK&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/git/repositories/56afdb48-b2a8-462d-a6ff-cb29b35ae8b3&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Major new release of our Workflow solution to manage digital document flows throughout organisations.&quot;,&quot;id&quot;:&quot;7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;,&quot;name&quot;:&quot;RecoMatics.EasyForm.Workflow.10&quot;,&quot;revision&quot;:55985325,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/ConfigurationClient" />
           <option name="serverUri" value="https://recomatics.visualstudio.com" />
           <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
@@ -213,7 +222,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//recomatics.visualstudio.com/recomatics.easyform.workflow.10/_git/api.client" />
+          <option name="value" value="//recomatics.visualstudio.com/recomatics.easyform.workflow.10/_git/clientsdk" />
         </PropertyState>
       </array>
     </option>
