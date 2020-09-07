@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Configuration.Tests\Data\DataModels\ConfigSettingDataModelTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Configuration.Tests\Data\DataModels\ConfigSettingDataModelTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Configuration.Tests\Data\DataModels\ConfigSettingDataModelTests.cs'" />
+    <option name="customScope" value="File '...\Configuration.IntegrationTests\Data\Extensions.cs'" />
+    <option name="defaultScopeName" value="File '...\Configuration.IntegrationTests\Data\Extensions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Configuration.IntegrationTests\Data\Extensions.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
