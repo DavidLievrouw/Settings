@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'HttpMessageSigning.Verification.Owin'" />
-    <option name="defaultScopeName" value="Project 'HttpMessageSigning.Verification.Owin'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Signing\SigningStringCompositionRequestFactory.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Signing\SigningStringCompositionRequestFactory.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'HttpMessageSigning.Verification.Owin'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Signing\SigningStringCompositionRequestFactory.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
