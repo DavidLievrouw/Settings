@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.EventHandling.Workflow10Api\Workflow10EventTypes.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.EventHandling.Workflow10Api\Workflow10EventTypes.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.EventHandling.Workflow10Api\Workflow10EventTypes.cs'" />
+    <option name="customScope" value="Project 'Extensions.EventHandling.Workflow10Api'" />
+    <option name="defaultScopeName" value="Project 'Extensions.EventHandling.Workflow10Api'" />
+    <option name="SEARCH_SCOPE" value="Project 'Extensions.EventHandling.Workflow10Api'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
