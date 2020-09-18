@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.EventHandling.Tests\Workflow10Api\Services\EventListenerRegistrationServiceTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.EventHandling.Tests\Workflow10Api\Services\EventListenerRegistrationServiceTests.cs'" />
+    <option name="customScope" value="File '...\Extensions.EventHandling.Tests\Workflow10Api\Services\Workflow10EventTaskCreatorTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.EventHandling.Tests\Workflow10Api\Services\Workflow10EventTaskCreatorTests.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.EventHandling.Tests\Workflow10Api\Services\EventListenerRegistrationServiceTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.EventHandling.Tests\Workflow10Api\Services\Workflow10EventTaskCreatorTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
