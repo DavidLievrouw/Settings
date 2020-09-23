@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.RecurringJobs.Tests\ScheduledTasks\InvokableRecurringJobTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.RecurringJobs.Tests\ScheduledTasks\InvokableRecurringJobTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.RecurringJobs.Tests\ScheduledTasks\InvokableRecurringJobTests.cs'" />
+    <option name="customScope" value="Project 'Extensions.RecurringJobs'" />
+    <option name="defaultScopeName" value="Project 'Extensions.RecurringJobs'" />
+    <option name="SEARCH_SCOPE" value="Project 'Extensions.RecurringJobs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
