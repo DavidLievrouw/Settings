@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.Hangfire\Extensions.IServiceCollection.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.Hangfire\Extensions.IServiceCollection.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.Hangfire\Extensions.IServiceCollection.cs'" />
+    <option name="customScope" value="File '...\Extensions.RecurringJobs\Models\RecurringJobOptions.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.RecurringJobs\Models\RecurringJobOptions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.RecurringJobs\Models\RecurringJobOptions.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
