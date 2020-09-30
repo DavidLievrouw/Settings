@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.Hangfire.Tests\DefaultHangfireJobDisplayNameResolverTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.Hangfire.Tests\DefaultHangfireJobDisplayNameResolverTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.Hangfire.Tests\DefaultHangfireJobDisplayNameResolverTests.cs'" />
+    <option name="customScope" value="File '...\Extensions.EventHandling.Tests\Workflow10\Services\Workflow10EventHandlerDisplayNameResolverTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.EventHandling.Tests\Workflow10\Services\Workflow10EventHandlerDisplayNameResolverTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.EventHandling.Tests\Workflow10\Services\Workflow10EventHandlerDisplayNameResolverTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
