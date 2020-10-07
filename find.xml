@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpClient.RequestSigning\UserAndApplicationSignatureCreatingInterceptor.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpClient.RequestSigning\UserAndApplicationSignatureCreatingInterceptor.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpClient.RequestSigning\UserAndApplicationSignatureCreatingInterceptor.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification.MongoDb.Tests\SignatureAlgorithmDataRecordTests.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.MongoDb.Tests\SignatureAlgorithmDataRecordTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.MongoDb.Tests\SignatureAlgorithmDataRecordTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
