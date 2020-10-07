@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpClient.Tests\RequestSigning\HeaderValueCreation\FoldingToASCIIHeaderValueCreatorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpClient.Tests\RequestSigning\HeaderValueCreation\FoldingToASCIIHeaderValueCreatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpClient.Tests\RequestSigning\HeaderValueCreation\FoldingToASCIIHeaderValueCreatorTests.cs'" />
+    <option name="customScope" value="File '...\HttpClient.Tests\RequestSigning\ExtensionsTests.HttpRequestMessage.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpClient.Tests\RequestSigning\ExtensionsTests.HttpRequestMessage.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpClient.Tests\RequestSigning\ExtensionsTests.HttpRequestMessage.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
