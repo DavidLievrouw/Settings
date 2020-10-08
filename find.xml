@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Localisation\Migrations\M0008_AddKnownClientApplications.cs'" />
-    <option name="defaultScopeName" value="File '...\Localisation\Migrations\M0008_AddKnownClientApplications.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Localisation\Migrations\M0008_AddKnownClientApplications.cs'" />
+    <option name="customScope" value="File '...\Portal.Tests\Startup\CompositionTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Tests\Startup\CompositionTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Startup\CompositionTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
