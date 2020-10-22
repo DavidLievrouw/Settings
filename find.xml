@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Tests\Api\Controllers\LandingActions\LandingActionsControllerTests.GetCommonDocumentTypesForTasks.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Controllers\LandingActions\LandingActionsControllerTests.GetCommonDocumentTypesForTasks.cs'" />
+    <option name="customScope" value="File '...\PortalClient\Parts\Tasks\BulkActions\BulkActionsPart.cs'" />
+    <option name="defaultScopeName" value="File '...\PortalClient\Parts\Tasks\BulkActions\BulkActionsPart.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Controllers\LandingActions\LandingActionsControllerTests.GetCommonDocumentTypesForTasks.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\PortalClient\Parts\Tasks\BulkActions\BulkActionsPart.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
