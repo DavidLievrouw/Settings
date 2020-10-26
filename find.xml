@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.SystemTests\Api\Controllers\Applications\ApplicationsControllerTests.GetApplications.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.SystemTests\Api\Controllers\Applications\ApplicationsControllerTests.GetApplications.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.SystemTests\Api\Controllers\Applications\ApplicationsControllerTests.GetApplications.cs'" />
+    <option name="customScope" value="File '...\Extensions.RecurringJobs.Workflow10\Models\IRecurringWorkflow10JobSpec.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.RecurringJobs.Workflow10\Models\IRecurringWorkflow10JobSpec.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.RecurringJobs.Workflow10\Models\IRecurringWorkflow10JobSpec.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
