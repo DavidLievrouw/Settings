@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.EventHandling\UpdateTaskDataEventHandler.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.EventHandling\UpdateTaskDataEventHandler.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.EventHandling\UpdateTaskDataEventHandler.cs'" />
+    <option name="customScope" value="File '...\Portal.Data\WorkflowTaskDataService.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Data\WorkflowTaskDataService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Data\WorkflowTaskDataService.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
