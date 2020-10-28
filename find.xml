@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Data\WorkflowTaskDataService.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Data\WorkflowTaskDataService.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Data\WorkflowTaskDataService.cs'" />
+    <option name="customScope" value="File '...\Portal.Domain\WorkflowTaskRepository.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Domain\WorkflowTaskRepository.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Domain\WorkflowTaskRepository.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
