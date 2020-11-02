@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.TaskLists\IUserTaskRepository.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.TaskLists\IUserTaskRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.TaskLists\IUserTaskRepository.cs'" />
+    <option name="customScope" value="File '...\Portal.TaskLists\UserTaskRepository.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.TaskLists\UserTaskRepository.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.TaskLists\UserTaskRepository.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
