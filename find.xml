@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Api\Controllers\Settings\Handlers\GetPortalSettingsTaskListHandler.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Api\Controllers\Settings\Handlers\GetPortalSettingsTaskListHandler.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Api\Controllers\Settings\Handlers\GetPortalSettingsTaskListHandler.cs'" />
+    <option name="customScope" value="File '...\Portal.Tests\Domain\Models\Mappers\TaskListSettingsDomainToDataMapperTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Tests\Domain\Models\Mappers\TaskListSettingsDomainToDataMapperTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Domain\Models\Mappers\TaskListSettingsDomainToDataMapperTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
