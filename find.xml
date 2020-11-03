@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.IntegrationTests\Data\WorkflowTaskDataServiceTests.GetTasksByInstance.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.IntegrationTests\Data\WorkflowTaskDataServiceTests.GetTasksByInstance.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.IntegrationTests\Data\WorkflowTaskDataServiceTests.GetTasksByInstance.cs'" />
+    <option name="customScope" value="File '...\Portal.Api\Controllers\TaskManagement\Services\WF10WorkflowTaskControlKeeper.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Api\Controllers\TaskManagement\Services\WF10WorkflowTaskControlKeeper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Api\Controllers\TaskManagement\Services\WF10WorkflowTaskControlKeeper.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
