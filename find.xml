@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\PortalClient\Models\WorkflowInstance.cs'" />
-    <option name="defaultScopeName" value="File '...\PortalClient\Models\WorkflowInstance.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\PortalClient\Models\WorkflowInstance.cs'" />
+    <option name="customScope" value="File '...\AzureDevOpsClient\Program.cs'" />
+    <option name="defaultScopeName" value="File '...\AzureDevOpsClient\Program.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AzureDevOpsClient\Program.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
