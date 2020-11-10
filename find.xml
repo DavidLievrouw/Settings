@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.SystemTests\EventHandlers\GroupUpsertEventHandlerTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.SystemTests\EventHandlers\GroupUpsertEventHandlerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.SystemTests\EventHandlers\GroupUpsertEventHandlerTests.cs'" />
+    <option name="customScope" value="File '...\Portal.Domain.Users\Services\GroupMembershipsFactory.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Domain.Users\Services\GroupMembershipsFactory.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Domain.Users\Services\GroupMembershipsFactory.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
