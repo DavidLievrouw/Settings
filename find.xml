@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.Data\EasyFormApi\InvokableQueryService.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.Data\EasyFormApi\InvokableQueryService.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.Data\EasyFormApi\InvokableQueryService.cs'" />
+    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.Tests\Data\EasyFormApi\InvokableQueryServiceTests.cs'" />
+    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.Tests\Data\EasyFormApi\InvokableQueryServiceTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.Tests\Data\EasyFormApi\InvokableQueryServiceTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
