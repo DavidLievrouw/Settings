@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TasksServiceClient\Parts\Documents\Document\DocumentTask\LoggingDocumentTaskPart.cs'" />
-    <option name="defaultScopeName" value="File '...\TasksServiceClient\Parts\Documents\Document\DocumentTask\LoggingDocumentTaskPart.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TasksServiceClient\Parts\Documents\Document\DocumentTask\LoggingDocumentTaskPart.cs'" />
+    <option name="customScope" value="File '...\TasksServiceClient.Tests\Parts\Documents\Document\DocumentTask\SerializationModels\Mappers\InvokableGroupFilterMapperTests.cs'" />
+    <option name="defaultScopeName" value="File '...\TasksServiceClient.Tests\Parts\Documents\Document\DocumentTask\SerializationModels\Mappers\InvokableGroupFilterMapperTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TasksServiceClient.Tests\Parts\Documents\Document\DocumentTask\SerializationModels\Mappers\InvokableGroupFilterMapperTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
