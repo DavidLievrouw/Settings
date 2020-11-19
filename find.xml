@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.Api\Controllers\TaskActions\Services\AllowedActionFilters\AllowedActionsFilterBase.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.Api\Controllers\TaskActions\Services\AllowedActionFilters\AllowedActionsFilterBase.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.Api\Controllers\TaskActions\Services\AllowedActionFilters\AllowedActionsFilterBase.cs'" />
+    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.Api\Controllers\TaskActions\Services\AllowedActionFilters\AllowedActionsFilterFactory.cs'" />
+    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.Api\Controllers\TaskActions\Services\AllowedActionFilters\AllowedActionsFilterFactory.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.Api\Controllers\TaskActions\Services\AllowedActionFilters\AllowedActionsFilterFactory.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
