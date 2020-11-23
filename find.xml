@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.IntegrationTests\Data\MongoDb\UserDataServiceTests.GetUsers.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.IntegrationTests\Data\MongoDb\UserDataServiceTests.GetUsers.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.IntegrationTests\Data\MongoDb\UserDataServiceTests.GetUsers.cs'" />
+    <option name="customScope" value="File '...\TaskActionsServiceClient\Models\PrincipalType.cs'" />
+    <option name="defaultScopeName" value="File '...\TaskActionsServiceClient\Models\PrincipalType.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TaskActionsServiceClient\Models\PrincipalType.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
