@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskActionsServiceClient\Parts\Documents\Document\DocumentTask\IDocumentTaskPart.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskActionsServiceClient\Parts\Documents\Document\DocumentTask\IDocumentTaskPart.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskActionsServiceClient\Parts\Documents\Document\DocumentTask\IDocumentTaskPart.cs'" />
+    <option name="customScope" value="File '...\TaskActionsServiceClient\Parts\Documents\Document\DocumentTask\Services\PrincipalMapper.cs'" />
+    <option name="defaultScopeName" value="File '...\TaskActionsServiceClient\Parts\Documents\Document\DocumentTask\Services\PrincipalMapper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TaskActionsServiceClient\Parts\Documents\Document\DocumentTask\Services\PrincipalMapper.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
