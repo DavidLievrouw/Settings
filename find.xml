@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.SystemTests\Api\Controllers\TaskActions\TaskActionsControllerTests.GetAssignablePrincipalsForTask.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.SystemTests\Api\Controllers\TaskActions\TaskActionsControllerTests.GetAssignablePrincipalsForTask.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.SystemTests\Api\Controllers\TaskActions\TaskActionsControllerTests.GetAssignablePrincipalsForTask.cs'" />
+    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.SystemTests\Api\Controllers\TaskActions\TaskActionsControllerTests.GetAwaitableDocumentTypesForTask.cs'" />
+    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.SystemTests\Api\Controllers\TaskActions\TaskActionsControllerTests.GetAwaitableDocumentTypesForTask.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.SystemTests\Api\Controllers\TaskActions\TaskActionsControllerTests.GetAwaitableDocumentTypesForTask.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
