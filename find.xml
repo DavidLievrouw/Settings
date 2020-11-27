@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TaskActionsService\TaskActionsService.Tests\Api\Controllers\TaskActions\Services\InvocationGuards\IsActionAllowedInvocationGuardTests.cs'" />
-    <option name="defaultScopeName" value="File '...\TaskActionsService\TaskActionsService.Tests\Api\Controllers\TaskActions\Services\InvocationGuards\IsActionAllowedInvocationGuardTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TaskActionsService\TaskActionsService.Tests\Api\Controllers\TaskActions\Services\InvocationGuards\IsActionAllowedInvocationGuardTests.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification.MongoDb\Extensions.IServiceCollection.AddMongoDbClientStore.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.MongoDb\Extensions.IServiceCollection.AddMongoDbClientStore.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.MongoDb\Extensions.IServiceCollection.AddMongoDbClientStore.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
