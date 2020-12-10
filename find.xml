@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\HttpMessageSigning.Verification.SqlServer.Tests\Infrastructure'" />
-    <option name="defaultScopeName" value="Directory '...\HttpMessageSigning.Verification.SqlServer.Tests\Infrastructure'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\HttpMessageSigning.Verification.SqlServer.Tests\Infrastructure'" />
+    <option name="customScope" value="Project 'Api.Client.Tests'" />
+    <option name="defaultScopeName" value="Project 'Api.Client.Tests'" />
+    <option name="SEARCH_SCOPE" value="Project 'Api.Client.Tests'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
