@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.Client.Extensions.Documents.Tests\Models\SessionFeedbackTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents.Tests\Models\SessionFeedbackTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents.Tests\Models\SessionFeedbackTests.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Proxies\SessionDataProxy.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Proxies\SessionDataProxy.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Proxies\SessionDataProxy.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
