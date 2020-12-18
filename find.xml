@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Verification.SqlServer.Tests\SqlServerConfigReader.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.SqlServer.Tests\SqlServerConfigReader.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.SqlServer.Tests\SqlServerConfigReader.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification.SqlServer.Tests\Infrastructure\Setup\Scripts\Tables\Game.sql'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.SqlServer.Tests\Infrastructure\Setup\Scripts\Tables\Game.sql'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.SqlServer.Tests\Infrastructure\Setup\Scripts\Tables\Game.sql'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
