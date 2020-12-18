@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Models\TryCloseResult.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Models\TryCloseResult.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Models\TryCloseResult.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Models\LoggingOpenSession.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Models\LoggingOpenSession.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Models\LoggingOpenSession.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
