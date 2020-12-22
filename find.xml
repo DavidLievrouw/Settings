@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TestInvoiceCreator\AdminSdk\SupplierLookupData.cs'" />
-    <option name="defaultScopeName" value="File '...\TestInvoiceCreator\AdminSdk\SupplierLookupData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TestInvoiceCreator\AdminSdk\SupplierLookupData.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Data\Models\Mappers\SessionDataMapper.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Data\Models\Mappers\SessionDataMapper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Data\Models\Mappers\SessionDataMapper.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
