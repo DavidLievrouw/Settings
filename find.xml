@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.Hangfire\HangfireJobCreator.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.Hangfire\HangfireJobCreator.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.Hangfire\HangfireJobCreator.cs'" />
+    <option name="customScope" value="Project 'Extensions.EventHandling.Hangfire'" />
+    <option name="defaultScopeName" value="Project 'Extensions.EventHandling.Hangfire'" />
+    <option name="SEARCH_SCOPE" value="Project 'Extensions.EventHandling.Hangfire'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
