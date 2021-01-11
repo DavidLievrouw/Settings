@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Api.Client.Extensions.Documents'" />
-    <option name="defaultScopeName" value="Project 'Api.Client.Extensions.Documents'" />
+    <option name="customScope" value="Project 'Api.Client.Extensions.Documents.Tests'" />
+    <option name="defaultScopeName" value="Project 'Api.Client.Extensions.Documents.Tests'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Api.Client.Extensions.Documents'" />
+    <option name="SEARCH_SCOPE" value="Project 'Api.Client.Extensions.Documents.Tests'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
