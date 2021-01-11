@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Services\IEntityReferenceCreator.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Services\IEntityReferenceCreator.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Services\IEntityReferenceCreator.cs'" />
+    <option name="customScope" value="Project 'Api.Client.Extensions.Documents'" />
+    <option name="defaultScopeName" value="Project 'Api.Client.Extensions.Documents'" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'Api.Client.Extensions.Documents'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
