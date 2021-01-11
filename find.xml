@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Sample\Models\InvoiceData.cs'" />
-    <option name="defaultScopeName" value="File '...\Sample\Models\InvoiceData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Sample\Models\InvoiceData.cs'" />
+    <option name="customScope" value="File '...\AdminSDK.Tests\Builders\MemberPaths\MemberPathBuilderTests.cs'" />
+    <option name="defaultScopeName" value="File '...\AdminSDK.Tests\Builders\MemberPaths\MemberPathBuilderTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Tests\Builders\MemberPaths\MemberPathBuilderTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
