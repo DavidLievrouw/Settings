@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.WF10.Models\Serialization\StringConverter.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models\Serialization\StringConverter.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models\Serialization\StringConverter.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Services\IEntityReferenceCreator.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Services\IEntityReferenceCreator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Services\IEntityReferenceCreator.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
