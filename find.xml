@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.WF10.Models.Tests\Serialization\GridConverterTests.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models.Tests\Serialization\GridConverterTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models.Tests\Serialization\GridConverterTests.cs'" />
+    <option name="customScope" value="File '...\RecoMatics.WF10.Models\Serialization\GridRowConverter.cs'" />
+    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models\Serialization\GridRowConverter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models\Serialization\GridRowConverter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
