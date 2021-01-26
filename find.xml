@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\HttpMessageSigning.Verification.FileSystem.Tests\Serialization\FileReaderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.FileSystem.Tests\Serialization\FileReaderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.FileSystem.Tests\Serialization\FileReaderTests.cs'" />
+    <option name="customScope" value="File '...\HttpMessageSigning.Verification.FileSystem.Tests\Serialization\ClientsFileManagerTests.cs'" />
+    <option name="defaultScopeName" value="File '...\HttpMessageSigning.Verification.FileSystem.Tests\Serialization\ClientsFileManagerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\HttpMessageSigning.Verification.FileSystem.Tests\Serialization\ClientsFileManagerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
