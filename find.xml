@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'RecoMatics.WF10.Models'" />
+    <option name="defaultScopeName" value="Project 'RecoMatics.WF10.Models'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'RecoMatics.WF10.Models'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
