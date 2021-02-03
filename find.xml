@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Data\Models\DocumentLinkDataModel.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Data\Models\DocumentLinkDataModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Data\Models\DocumentLinkDataModel.cs'" />
+    <option name="customScope" value="File '...\RecoMatics.WF10.Models.Tests\Serialization\Models\SessionForTests.cs'" />
+    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models.Tests\Serialization\Models\SessionForTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models.Tests\Serialization\Models\SessionForTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
