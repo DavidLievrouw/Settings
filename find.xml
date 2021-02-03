@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.WF10.Models.Tests\ExtensionsTests.ISession.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models.Tests\ExtensionsTests.ISession.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models.Tests\ExtensionsTests.ISession.cs'" />
+    <option name="customScope" value="File '...\RecoMatics.WF10.Models\Serialization\SessionDataConverter.cs'" />
+    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models\Serialization\SessionDataConverter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models\Serialization\SessionDataConverter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
