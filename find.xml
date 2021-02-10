@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.WF10.Models.Tests\ExtensionsTests.IFieldFeedbackCollection.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.WF10.Models.Tests\ExtensionsTests.IFieldFeedbackCollection.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents.Tests\ExtensionsTests.TryCloseResult.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents.Tests\ExtensionsTests.TryCloseResult.cs'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.WF10.Models.Tests\ExtensionsTests.IFieldFeedbackCollection.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents.Tests\ExtensionsTests.TryCloseResult.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
