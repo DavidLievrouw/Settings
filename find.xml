@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ValueResolver.Tests\ExtensionsTests.Type.cs'" />
-    <option name="defaultScopeName" value="File '...\ValueResolver.Tests\ExtensionsTests.Type.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\ValueResolver.Tests\ExtensionsTests.Type.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Models\GridRowContainer.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Models\GridRowContainer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Models\GridRowContainer.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
