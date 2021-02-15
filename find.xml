@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Portal.Domain.TaskLists\Services\CustomFilters\Extensions.cs'" />
-    <option name="defaultScopeName" value="File '...\Portal.Domain.TaskLists\Services\CustomFilters\Extensions.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Portal.Domain.TaskLists\Services\CustomFilters\Extensions.cs'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Models\Change.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Models\Change.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Models\Change.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
