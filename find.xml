@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Api.Client.Extensions.Documents'" />
-    <option name="defaultScopeName" value="Project 'Api.Client.Extensions.Documents'" />
-    <option name="SEARCH_SCOPE" value="Project 'Api.Client.Extensions.Documents'" />
+    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Proxies\IDataModelProxyWrapper.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Proxies\IDataModelProxyWrapper.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Proxies\IDataModelProxyWrapper.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
