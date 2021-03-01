@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.Client.Extensions.Documents\Models\TrackingEntityReference.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.Client.Extensions.Documents\Models\TrackingEntityReference.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.Client.Extensions.Documents\Models\TrackingEntityReference.cs'" />
+    <option name="customScope" value="Project 'Sample.NetCore.Documents'" />
+    <option name="defaultScopeName" value="Project 'Sample.NetCore.Documents'" />
+    <option name="SEARCH_SCOPE" value="Project 'Sample.NetCore.Documents'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
