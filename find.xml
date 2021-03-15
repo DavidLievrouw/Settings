@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\TasksService\TasksService.SystemTests\Api\Controllers\Tasks\TasksControllerTests.UpsertWorkflowTasks.cs'" />
-    <option name="defaultScopeName" value="File '...\TasksService\TasksService.SystemTests\Api\Controllers\Tasks\TasksControllerTests.UpsertWorkflowTasks.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\TasksService\TasksService.SystemTests\Api\Controllers\Tasks\TasksControllerTests.UpsertWorkflowTasks.cs'" />
+    <option name="customScope" value="File '...\Portal.Tests\Api\Controllers\Settings\SettingsControllerTests.UpsertUIHints.cs'" />
+    <option name="defaultScopeName" value="File '...\Portal.Tests\Api\Controllers\Settings\SettingsControllerTests.UpsertUIHints.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Portal.Tests\Api\Controllers\Settings\SettingsControllerTests.UpsertUIHints.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
