@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Extensions.Introspection.Tests\Middleware\IntrospectionCallDetectorTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Extensions.Introspection.Tests\Middleware\IntrospectionCallDetectorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Extensions.Introspection.Tests\Middleware\IntrospectionCallDetectorTests.cs'" />
+    <option name="customScope" value="Project 'Extensions.Introspection'" />
+    <option name="defaultScopeName" value="Project 'Extensions.Introspection'" />
+    <option name="SEARCH_SCOPE" value="Project 'Extensions.Introspection'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
