@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\LocalisationClient.Tests\Configuration\SettingsFromConfigurationLoaderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\LocalisationClient.Tests\Configuration\SettingsFromConfigurationLoaderTests.cs'" />
+    <option name="customScope" value="File '...\LocalisationClient\Parts\Cultures\ForCulture\InMemoryCachingCulturePart.cs'" />
+    <option name="defaultScopeName" value="File '...\LocalisationClient\Parts\Cultures\ForCulture\InMemoryCachingCulturePart.cs'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\LocalisationClient.Tests\Configuration\SettingsFromConfigurationLoaderTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\LocalisationClient\Parts\Cultures\ForCulture\InMemoryCachingCulturePart.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
