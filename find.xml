@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\CulturePartFactoryTests.cs'" />
-    <option name="defaultScopeName" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\CulturePartFactoryTests.cs'" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\CulturePartFactoryTests.cs'" />
+    <option name="customScope" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\FileSystemCachingCulturePartTests.cs'" />
+    <option name="defaultScopeName" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\FileSystemCachingCulturePartTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\FileSystemCachingCulturePartTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
