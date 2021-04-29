@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\LocalisationClient.Tests\Caching\NoASquashedTranslationsCachePolicyTests.cs'" />
-    <option name="defaultScopeName" value="File '...\LocalisationClient.Tests\Caching\NoASquashedTranslationsCachePolicyTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\LocalisationClient.Tests\Caching\NoASquashedTranslationsCachePolicyTests.cs'" />
+    <option name="customScope" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\ForLevel\ForKey\KeyPartTests.cs'" />
+    <option name="defaultScopeName" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\ForLevel\ForKey\KeyPartTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\LocalisationClient.Tests\Parts\Cultures\ForCulture\ForLevel\ForKey\KeyPartTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
