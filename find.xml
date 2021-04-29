@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\AdminSDK.Localisation.Tests\Synchronization\UpdateCommandTests.cs'" />
-    <option name="defaultScopeName" value="File '...\AdminSDK.Localisation.Tests\Synchronization\UpdateCommandTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Localisation.Tests\Synchronization\UpdateCommandTests.cs'" />
+    <option name="customScope" value="File '...\AdminSDK.Arguments.Sample.Tests\GivenProgram.cs'" />
+    <option name="defaultScopeName" value="File '...\AdminSDK.Arguments.Sample.Tests\GivenProgram.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AdminSDK.Arguments.Sample.Tests\GivenProgram.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
