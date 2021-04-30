@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\DocumentView.UI\ExceptionHandling\ViewValidationException.cs'" />
-    <option name="defaultScopeName" value="File '...\DocumentView.UI\ExceptionHandling\ViewValidationException.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\DocumentView.UI\ExceptionHandling\ViewValidationException.cs'" />
+    <option name="customScope" value="File '...\DocumentView\Configuration\ILegacyConfiguration.cs'" />
+    <option name="defaultScopeName" value="File '...\DocumentView\Configuration\ILegacyConfiguration.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\DocumentView\Configuration\ILegacyConfiguration.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
