@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\DocumentView\Migrations\M0001_AddSecondWaveOfInitTranslations.cs'" />
-    <option name="defaultScopeName" value="File '...\DocumentView\Migrations\M0001_AddSecondWaveOfInitTranslations.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\DocumentView\Migrations\M0001_AddSecondWaveOfInitTranslations.cs'" />
+    <option name="customScope" value="File '...\DocumentView\Migrations2\M0003_AddErrorFlowTranslations.cs'" />
+    <option name="defaultScopeName" value="File '...\DocumentView\Migrations2\M0003_AddErrorFlowTranslations.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\DocumentView\Migrations2\M0003_AddErrorFlowTranslations.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
