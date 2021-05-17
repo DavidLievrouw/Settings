@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.SystemTests\Scenarios\S001_SanityCheck\Tests.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.SystemTests\Scenarios\S001_SanityCheck\Tests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.SystemTests\Scenarios\S001_SanityCheck\Tests.cs'" />
+    <option name="customScope" value="File '...\Api.SystemTests\TestModels.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.SystemTests\TestModels.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.SystemTests\TestModels.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
