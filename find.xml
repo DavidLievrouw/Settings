@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.EasyForm.Api\Hangfire\HangfireJobCreator.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.EasyForm.Api\Hangfire\HangfireJobCreator.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.EasyForm.Api\Hangfire\HangfireJobCreator.cs'" />
+    <option name="customScope" value="File '...\Api.IntegrationTests\MongoDb\MongoSetup.cs'" />
+    <option name="defaultScopeName" value="File '...\Api.IntegrationTests\MongoDb\MongoSetup.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Api.IntegrationTests\MongoDb\MongoSetup.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
