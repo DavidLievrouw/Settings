@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Api.IntegrationTests\MongoDb\MongoSetup.cs'" />
-    <option name="defaultScopeName" value="File '...\Api.IntegrationTests\MongoDb\MongoSetup.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Api.IntegrationTests\MongoDb\MongoSetup.cs'" />
+    <option name="customScope" value="Project 'Api.IntegrationTests'" />
+    <option name="defaultScopeName" value="Project 'Api.IntegrationTests'" />
+    <option name="SEARCH_SCOPE" value="Project 'Api.IntegrationTests'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
