@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S071_CsvUpload\Tests.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S071_CsvUpload\Tests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S071_CsvUpload\Tests.cs'" />
+    <option name="customScope" value="File '...\Core.RecurringJobs\MasterdataFileSynchronization.cs'" />
+    <option name="defaultScopeName" value="File '...\Core.RecurringJobs\MasterdataFileSynchronization.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Core.RecurringJobs\MasterdataFileSynchronization.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
