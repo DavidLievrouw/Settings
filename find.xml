@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WorkflowWorker.Tests\Api\Controllers\SendMail\SendMailControllerTests.cs'" />
-    <option name="defaultScopeName" value="File '...\WorkflowWorker.Tests\Api\Controllers\SendMail\SendMailControllerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\WorkflowWorker.Tests\Api\Controllers\SendMail\SendMailControllerTests.cs'" />
+    <option name="customScope" value="File '...\RecoMatics.EasyForm.Service.DocumentMailModule\Services\DocumentSessionRetriever.cs'" />
+    <option name="defaultScopeName" value="File '...\RecoMatics.EasyForm.Service.DocumentMailModule\Services\DocumentSessionRetriever.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.EasyForm.Service.DocumentMailModule\Services\DocumentSessionRetriever.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
