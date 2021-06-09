@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'RecoMatics.RazorEngine.Tests'" />
-    <option name="defaultScopeName" value="Project 'RecoMatics.RazorEngine.Tests'" />
-    <option name="SEARCH_SCOPE" value="Project 'RecoMatics.RazorEngine.Tests'" />
+    <option name="customScope" value="File '...\RecoMatics.EasyForm.Service.DocumentMailModule\MainProcessor.cs'" />
+    <option name="defaultScopeName" value="File '...\RecoMatics.EasyForm.Service.DocumentMailModule\MainProcessor.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.EasyForm.Service.DocumentMailModule\MainProcessor.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
