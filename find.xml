@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WorkflowWorker.Utils\Configuration\WorkflowWorkerSettings.cs'" />
-    <option name="defaultScopeName" value="File '...\WorkflowWorker.Utils\Configuration\WorkflowWorkerSettings.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\WorkflowWorker.Utils\Configuration\WorkflowWorkerSettings.cs'" />
+    <option name="customScope" value="File '...\WorkflowWorker.Tests\RecurringJobs\TasksNotifier\TasksNotifierTests.cs'" />
+    <option name="defaultScopeName" value="File '...\WorkflowWorker.Tests\RecurringJobs\TasksNotifier\TasksNotifierTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\WorkflowWorker.Tests\RecurringJobs\TasksNotifier\TasksNotifierTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
