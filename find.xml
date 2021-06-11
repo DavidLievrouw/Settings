@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'WorkflowWorker.EventHandling'" />
-    <option name="defaultScopeName" value="Project 'WorkflowWorker.EventHandling'" />
-    <option name="SEARCH_SCOPE" value="Project 'WorkflowWorker.EventHandling'" />
+    <option name="customScope" value="File '...\Core.SystemTests\EventHandling\UpdateSessionTicketEventHandlerTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Core.SystemTests\EventHandling\UpdateSessionTicketEventHandlerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Core.SystemTests\EventHandling\UpdateSessionTicketEventHandlerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
