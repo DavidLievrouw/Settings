@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\RecoMatics.EasyForm.AgilePoint.Tests\ProcessDefinitionNamesProviderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\RecoMatics.EasyForm.AgilePoint.Tests\ProcessDefinitionNamesProviderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\RecoMatics.EasyForm.AgilePoint.Tests\ProcessDefinitionNamesProviderTests.cs'" />
+    <option name="customScope" value="File '...\Extensions.RecurringJobs.Workflow10\Models\RecurringWorkflow10JobSpec.cs'" />
+    <option name="defaultScopeName" value="File '...\Extensions.RecurringJobs.Workflow10\Models\RecurringWorkflow10JobSpec.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Extensions.RecurringJobs.Workflow10\Models\RecurringWorkflow10JobSpec.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
