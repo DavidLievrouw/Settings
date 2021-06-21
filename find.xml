@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ArchiveWorker\Startup\Extensions.IHealthChecksBuilder.cs'" />
-    <option name="defaultScopeName" value="File '...\ArchiveWorker\Startup\Extensions.IHealthChecksBuilder.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\ArchiveWorker\Startup\Extensions.IHealthChecksBuilder.cs'" />
+    <option name="customScope" value="File '...\ArchiveWorker.EventHandling\Services\LookupDefinitionUpserter.cs'" />
+    <option name="defaultScopeName" value="File '...\ArchiveWorker.EventHandling\Services\LookupDefinitionUpserter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\ArchiveWorker.EventHandling\Services\LookupDefinitionUpserter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
