@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ArchiveWorker.Tests\Startup\HealthChecks\Services\CachingAvailableOutputTypesProviderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\ArchiveWorker.Tests\Startup\HealthChecks\Services\CachingAvailableOutputTypesProviderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\ArchiveWorker.Tests\Startup\HealthChecks\Services\CachingAvailableOutputTypesProviderTests.cs'" />
+    <option name="customScope" value="File '...\ArchiveWorker\LegacyEvents\LegacyEventJobAdapter.cs'" />
+    <option name="defaultScopeName" value="File '...\ArchiveWorker\LegacyEvents\LegacyEventJobAdapter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\ArchiveWorker\LegacyEvents\LegacyEventJobAdapter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
