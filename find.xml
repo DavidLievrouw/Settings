@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ArchiveWorker.IntegrationTests.SharePoint\EF10LibraryAdapter\CreateEf10DocumentUnderFolderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\ArchiveWorker.IntegrationTests.SharePoint\EF10LibraryAdapter\CreateEf10DocumentUnderFolderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\ArchiveWorker.IntegrationTests.SharePoint\EF10LibraryAdapter\CreateEf10DocumentUnderFolderTests.cs'" />
+    <option name="customScope" value="Project 'ArchiveWorker.IntegrationTests.SharePoint'" />
+    <option name="defaultScopeName" value="Project 'ArchiveWorker.IntegrationTests.SharePoint'" />
+    <option name="SEARCH_SCOPE" value="Project 'ArchiveWorker.IntegrationTests.SharePoint'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
