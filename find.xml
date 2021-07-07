@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'HelloWorldMod'" />
-    <option name="defaultScopeName" value="Project 'HelloWorldMod'" />
-    <option name="SEARCH_SCOPE" value="Project 'HelloWorldMod'" />
+    <option name="customScope" value="File '...\ConfigurationClient.Extensions.Health\Extensions.IHealthChecksBuilder.cs'" />
+    <option name="defaultScopeName" value="File '...\ConfigurationClient.Extensions.Health\Extensions.IHealthChecksBuilder.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\ConfigurationClient.Extensions.Health\Extensions.IHealthChecksBuilder.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
