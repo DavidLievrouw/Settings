@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Core'" />
-    <option name="defaultScopeName" value="Project 'Core'" />
-    <option name="SEARCH_SCOPE" value="Project 'Core'" />
+    <option name="customScope" value="File '...\WorkerTemplate\Startup\C.cs'" />
+    <option name="defaultScopeName" value="File '...\WorkerTemplate\Startup\C.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\WorkerTemplate\Startup\C.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
