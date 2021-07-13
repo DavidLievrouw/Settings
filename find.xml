@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Core.ActiveDirectory\Extensions.cs'" />
-    <option name="defaultScopeName" value="File '...\Core.ActiveDirectory\Extensions.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Core.ActiveDirectory\Extensions.cs'" />
+    <option name="customScope" value="File '...\Core.ActiveDirectory\Extensions.IEnumerableOfT.cs'" />
+    <option name="defaultScopeName" value="File '...\Core.ActiveDirectory\Extensions.IEnumerableOfT.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Core.ActiveDirectory\Extensions.IEnumerableOfT.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
