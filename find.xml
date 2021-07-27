@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Health.SystemTests\Api\Security\HealthEndpointCredentialsRepositoryTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Health.SystemTests\Api\Security\HealthEndpointCredentialsRepositoryTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Health.SystemTests\Api\Security\HealthEndpointCredentialsRepositoryTests.cs'" />
+    <option name="customScope" value="File '...\Health.Api\Security\HealthEndpointCredentialsRepository.cs'" />
+    <option name="defaultScopeName" value="File '...\Health.Api\Security\HealthEndpointCredentialsRepository.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Health.Api\Security\HealthEndpointCredentialsRepository.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
