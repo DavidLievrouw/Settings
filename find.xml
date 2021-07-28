@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Localisation\Migrations\M0010_AddClaimToKnownClients.cs'" />
-    <option name="defaultScopeName" value="File '...\Localisation\Migrations\M0010_AddClaimToKnownClients.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Localisation\Migrations\M0010_AddClaimToKnownClients.cs'" />
+    <option name="customScope" value="File '...\Localisation.SystemTests\Controllers\Default\DefaultControllerTests.GetIndex.cs'" />
+    <option name="defaultScopeName" value="File '...\Localisation.SystemTests\Controllers\Default\DefaultControllerTests.GetIndex.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Localisation.SystemTests\Controllers\Default\DefaultControllerTests.GetIndex.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
