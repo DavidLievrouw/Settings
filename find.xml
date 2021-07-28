@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'TasksService.SystemTests'" />
-    <option name="defaultScopeName" value="Project 'TasksService.SystemTests'" />
-    <option name="SEARCH_SCOPE" value="Project 'TasksService.SystemTests'" />
+    <option name="customScope" value="File '...\Delegations\Migration\M0003_AddClaimToKnownClientApplications.cs'" />
+    <option name="defaultScopeName" value="File '...\Delegations\Migration\M0003_AddClaimToKnownClientApplications.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Delegations\Migration\M0003_AddClaimToKnownClientApplications.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
