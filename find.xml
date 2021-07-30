@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Health.Tests\Api\Controllers\Health\Models\Mappers\SystemHealthEndpointStatusMapperTests.cs'" />
-    <option name="defaultScopeName" value="File '...\Health.Tests\Api\Controllers\Health\Models\Mappers\SystemHealthEndpointStatusMapperTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Health.Tests\Api\Controllers\Health\Models\Mappers\SystemHealthEndpointStatusMapperTests.cs'" />
+    <option name="customScope" value="File '...\Health.Tests\Api\Controllers\Health\Handlers\GetHealthOverviewHandlerTests.cs'" />
+    <option name="defaultScopeName" value="File '...\Health.Tests\Api\Controllers\Health\Handlers\GetHealthOverviewHandlerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Health.Tests\Api\Controllers\Health\Handlers\GetHealthOverviewHandlerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
