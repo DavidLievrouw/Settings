@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Delegations.Tests\Data\AgilePoint\AgilePointDateTimeCalculatorTests.cs'" />
-    <option name="defaultScopeName" value="File '…\Delegations.Tests\Data\AgilePoint\AgilePointDateTimeCalculatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Delegations.Tests\Data\AgilePoint\AgilePointDateTimeCalculatorTests.cs'" />
+    <option name="customScope" value="File '…\Delegations.Data\AgilePoint\AgilePointDateTimeCalculator.cs'" />
+    <option name="defaultScopeName" value="File '…\Delegations.Data\AgilePoint\AgilePointDateTimeCalculator.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Delegations.Data\AgilePoint\AgilePointDateTimeCalculator.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
