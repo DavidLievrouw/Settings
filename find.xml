@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '…\AdminSDK\Models\KnownClientApplication.cs'" />
+    <option name="defaultScopeName" value="File '…\AdminSDK\Models\KnownClientApplication.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\AdminSDK\Models\KnownClientApplication.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
