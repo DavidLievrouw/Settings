@@ -121,6 +121,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://recomatics.visualstudio.com/RecoMatics.Mods/_git/Extensions.EventHandling" />
+          <option name="serverUri" value="https://recomatics.visualstudio.com" />
+          <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;,&quot;name&quot;:&quot;recomatics&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projectCollections/d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;73ee6072-e98f-4985-b4be-85d84eff58f1&quot;,&quot;name&quot;:&quot;RecoMatics.Mods&quot;,&quot;revision&quot;:55985474,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/73ee6072-e98f-4985-b4be-85d84eff58f1&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;9530a037-de74-4f5b-b40b-dddcdc446534&quot;,&quot;name&quot;:&quot;Extensions.EventHandling&quot;,&quot;remoteUrl&quot;:&quot;https://recomatics.visualstudio.com/RecoMatics.Mods/_git/Extensions.EventHandling&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/git/repositories/9530a037-de74-4f5b-b40b-dddcdc446534&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;73ee6072-e98f-4985-b4be-85d84eff58f1&quot;,&quot;name&quot;:&quot;RecoMatics.Mods&quot;,&quot;revision&quot;:55985474,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/73ee6072-e98f-4985-b4be-85d84eff58f1&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/ConfigurationClient" />
           <option name="serverUri" value="https://recomatics.visualstudio.com" />
           <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
@@ -180,6 +189,15 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;,&quot;name&quot;:&quot;recomatics&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projectCollections/d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Major new release of our Workflow solution to manage digital document flows throughout organisations.&quot;,&quot;id&quot;:&quot;7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;,&quot;name&quot;:&quot;RecoMatics.EasyForm.Workflow.10&quot;,&quot;revision&quot;:55985355,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;912050d7-5800-4a29-b2e4-798ca22e75f8&quot;,&quot;name&quot;:&quot;Core&quot;,&quot;remoteUrl&quot;:&quot;https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/Core&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/git/repositories/912050d7-5800-4a29-b2e4-798ca22e75f8&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Major new release of our Workflow solution to manage digital document flows throughout organisations.&quot;,&quot;id&quot;:&quot;7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;,&quot;name&quot;:&quot;RecoMatics.EasyForm.Workflow.10&quot;,&quot;revision&quot;:55985355,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/7ff46ae9-5583-4ec2-98d1-d15cddfbf964&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://recomatics.visualstudio.com/RecoMatics.Mods/_git/Extensions.EventHandling.Workflow10" />
+          <option name="serverUri" value="https://recomatics.visualstudio.com" />
+          <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;,&quot;name&quot;:&quot;recomatics&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projectCollections/d7e618e2-a1b7-4581-b690-236428cb0ef1&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;73ee6072-e98f-4985-b4be-85d84eff58f1&quot;,&quot;name&quot;:&quot;RecoMatics.Mods&quot;,&quot;revision&quot;:55985474,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/73ee6072-e98f-4985-b4be-85d84eff58f1&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;e17ca8d5-1050-4622-ac37-eec8089c77b5&quot;,&quot;name&quot;:&quot;Extensions.EventHandling.Workflow10&quot;,&quot;remoteUrl&quot;:&quot;https://recomatics.visualstudio.com/RecoMatics.Mods/_git/Extensions.EventHandling.Workflow10&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/git/repositories/e17ca8d5-1050-4622-ac37-eec8089c77b5&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;73ee6072-e98f-4985-b4be-85d84eff58f1&quot;,&quot;name&quot;:&quot;RecoMatics.Mods&quot;,&quot;revision&quot;:55985474,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recomatics.visualstudio.com/_apis/projects/73ee6072-e98f-4985-b4be-85d84eff58f1&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -348,7 +366,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//recomatics.visualstudio.com/recomatics.mods/_git/template.uimod" />
+          <option name="value" value="//recomatics.visualstudio.com/recomatics.mods/_git/extensions.eventhandling.workflow10" />
         </PropertyState>
       </array>
     </option>
