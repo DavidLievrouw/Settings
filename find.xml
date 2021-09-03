@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\LocalisationClient.Extensions.MongoDb\ExtensionMethods.IHttpClientBuilder.cs'" />
-    <option name="defaultScopeName" value="File '…\LocalisationClient.Extensions.MongoDb\ExtensionMethods.IHttpClientBuilder.cs'" />
+    <option name="customScope" value="File '…\LocalisationClient\Caching\SquashedTranslationsCachePolicy.cs'" />
+    <option name="defaultScopeName" value="File '…\LocalisationClient\Caching\SquashedTranslationsCachePolicy.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="preserveCase" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\LocalisationClient.Extensions.MongoDb\ExtensionMethods.IHttpClientBuilder.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LocalisationClient\Caching\SquashedTranslationsCachePolicy.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
