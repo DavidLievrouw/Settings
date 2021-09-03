@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DataWarehouseWorker\Startup\HealthChecks\HangfireMongoDbHealthCheck.cs'" />
-    <option name="defaultScopeName" value="File '…\DataWarehouseWorker\Startup\HealthChecks\HangfireMongoDbHealthCheck.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DataWarehouseWorker\Startup\HealthChecks\HangfireMongoDbHealthCheck.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker\Startup\HealthChecks\HangfireMongoDbHealthCheck.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker\Startup\HealthChecks\HangfireMongoDbHealthCheck.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker\Startup\HealthChecks\HangfireMongoDbHealthCheck.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
