@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkerTemplate\HealthChecks\Extensions.HealthCheckBuilder.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkerTemplate\HealthChecks\Extensions.HealthCheckBuilder.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkerTemplate\HealthChecks\Extensions.HealthCheckBuilder.cs'" />
+    <option name="customScope" value="File '…\UIModTemplate.Api\Controllers\UserInfo\Services\GraphClient.cs'" />
+    <option name="defaultScopeName" value="File '…\UIModTemplate.Api\Controllers\UserInfo\Services\GraphClient.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\UIModTemplate.Api\Controllers\UserInfo\Services\GraphClient.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
