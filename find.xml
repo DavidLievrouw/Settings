@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DeployVM.Tests\Services\TemplateMediatorTests.cs'" />
-    <option name="defaultScopeName" value="File '…\DeployVM.Tests\Services\TemplateMediatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DeployVM.Tests\Services\TemplateMediatorTests.cs'" />
+    <option name="customScope" value="File '…\DeployVM\Services\PfxCertSplitter.cs'" />
+    <option name="defaultScopeName" value="File '…\DeployVM\Services\PfxCertSplitter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DeployVM\Services\PfxCertSplitter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
