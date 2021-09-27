@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\PolicyServer.Tests\Domain\DocumentTypeRepositoryTests.cs'" />
-    <option name="defaultScopeName" value="File '…\PolicyServer.Tests\Domain\DocumentTypeRepositoryTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\PolicyServer.Tests\Domain\DocumentTypeRepositoryTests.cs'" />
+    <option name="customScope" value="File '…\Configuration.Api\Controllers\ConfigSettings\Handlers\GetConfigSettingsByPathHandler.cs'" />
+    <option name="defaultScopeName" value="File '…\Configuration.Api\Controllers\ConfigSettings\Handlers\GetConfigSettingsByPathHandler.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Configuration.Api\Controllers\ConfigSettings\Handlers\GetConfigSettingsByPathHandler.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
