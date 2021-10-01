@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DeployVM.Tests\Settings\UpdateCertsSettingsValidatorTests.cs'" />
-    <option name="defaultScopeName" value="File '…\DeployVM.Tests\Settings\UpdateCertsSettingsValidatorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DeployVM.Tests\Settings\UpdateCertsSettingsValidatorTests.cs'" />
+    <option name="customScope" value="File '…\DeployVM.Tests\Verbs\UpdateCerts\UpdateCertsOrchestratorTests.cs'" />
+    <option name="defaultScopeName" value="File '…\DeployVM.Tests\Verbs\UpdateCerts\UpdateCertsOrchestratorTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DeployVM.Tests\Verbs\UpdateCerts\UpdateCertsOrchestratorTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
