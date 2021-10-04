@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DeployVM.Tests\Services\ResettableLazyTests.cs'" />
-    <option name="defaultScopeName" value="File '…\DeployVM.Tests\Services\ResettableLazyTests.cs'" />
+    <option name="customScope" value="Project 'DeployVM'" />
+    <option name="defaultScopeName" value="Project 'DeployVM'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\DeployVM.Tests\Services\ResettableLazyTests.cs'" />
+    <option name="SEARCH_SCOPE" value="Project 'DeployVM'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
