@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Extensions.Logging.Seq\Extensions.IServiceCollection.cs'" />
-    <option name="defaultScopeName" value="File '…\Extensions.Logging.Seq\Extensions.IServiceCollection.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Extensions.Logging.Seq\Extensions.IServiceCollection.cs'" />
+    <option name="customScope" value="File '…\Extensions.Logging.Tests\ConsoleSinkFactoryTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Extensions.Logging.Tests\ConsoleSinkFactoryTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Extensions.Logging.Tests\ConsoleSinkFactoryTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
