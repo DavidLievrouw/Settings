@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Deploy-Workflow.Tests\KeyVault\RoleAssignmentCreatorFactoryTests.cs'" />
-    <option name="defaultScopeName" value="File '…\Deploy-Workflow.Tests\KeyVault\RoleAssignmentCreatorFactoryTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Deploy-Workflow.Tests\KeyVault\RoleAssignmentCreatorFactoryTests.cs'" />
+    <option name="customScope" value="File '…\Deploy-Workflow.Tests\KeyVault\KeyVaultRbacConfiguratorTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Deploy-Workflow.Tests\KeyVault\KeyVaultRbacConfiguratorTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Deploy-Workflow.Tests\KeyVault\KeyVaultRbacConfiguratorTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
