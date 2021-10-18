@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Deploy-Workflow\KeyVault\KeyVaultSecretServiceFactory.cs'" />
-    <option name="defaultScopeName" value="File '…\Deploy-Workflow\KeyVault\KeyVaultSecretServiceFactory.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Deploy-Workflow\KeyVault\KeyVaultSecretServiceFactory.cs'" />
+    <option name="customScope" value="File '…\Deploy-Workflow.Tests\Verbs\UpdateOS\UpdateOSOrchestratorTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Deploy-Workflow.Tests\Verbs\UpdateOS\UpdateOSOrchestratorTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Deploy-Workflow.Tests\Verbs\UpdateOS\UpdateOSOrchestratorTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
