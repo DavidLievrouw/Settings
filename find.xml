@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Support.Tests\Api\Services\UrlBasedVersionProviderTests.cs'" />
-    <option name="defaultScopeName" value="File '…\Support.Tests\Api\Services\UrlBasedVersionProviderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Support.Tests\Api\Services\UrlBasedVersionProviderTests.cs'" />
+    <option name="customScope" value="File '…\Support.Api\Controllers\Version\Services\VersionService.cs'" />
+    <option name="defaultScopeName" value="File '…\Support.Api\Controllers\Version\Services\VersionService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Support.Api\Controllers\Version\Services\VersionService.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
