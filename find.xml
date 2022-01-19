@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\DocumentView\Startup\HealthChecks\C.cs'" />
-    <option name="defaultScopeName" value="File '…\DocumentView\Startup\HealthChecks\C.cs'" />
+    <option name="customScope" value="File '…\Health.Tests\Startup\HealthChecks\LocalisationAvailableHealthCheckTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Health.Tests\Startup\HealthChecks\LocalisationAvailableHealthCheckTests.cs'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\DocumentView\Startup\HealthChecks\C.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Health.Tests\Startup\HealthChecks\LocalisationAvailableHealthCheckTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
