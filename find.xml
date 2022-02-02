@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\DocumentTypeRules\DocumentFieldCollectingConditionVisitorFactoryTests.cs'" />
-    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\DocumentTypeRules\DocumentFieldCollectingConditionVisitorFactoryTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\DocumentTypeRules\DocumentFieldCollectingConditionVisitorFactoryTests.cs'" />
+    <option name="customScope" value="Project 'FunctionalTests.AdminSDK'" />
+    <option name="defaultScopeName" value="Project 'FunctionalTests.AdminSDK'" />
+    <option name="SEARCH_SCOPE" value="Project 'FunctionalTests.AdminSDK'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
