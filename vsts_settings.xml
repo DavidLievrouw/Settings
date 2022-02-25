@@ -175,14 +175,6 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://davidlievrouw.visualstudio.com" />
-          <option name="serverUri" value="https://davidlievrouw.visualstudio.com" />
-          <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://recomatics.visualstudio.com/RecoMatics.EasyForm.Workflow.10/_git/PortalClient" />
           <option name="serverUri" value="https://recomatics.visualstudio.com" />
           <option name="userId" value="8a34247f-b42d-6bef-9f28-87c24631ebb8" />
