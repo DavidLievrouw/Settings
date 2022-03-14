@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Extensions.Authentication.WorkflowClientCertificate.Clients\PrincipalHeadersSettingInterceptor.cs'" />
-    <option name="defaultScopeName" value="File '…\Extensions.Authentication.WorkflowClientCertificate.Clients\PrincipalHeadersSettingInterceptor.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Extensions.Authentication.WorkflowClientCertificate.Clients\PrincipalHeadersSettingInterceptor.cs'" />
+    <option name="customScope" value="File '…\Extensions.Authentication.WorkflowClientCertificate\CertificateUser.cs'" />
+    <option name="defaultScopeName" value="File '…\Extensions.Authentication.WorkflowClientCertificate\CertificateUser.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Extensions.Authentication.WorkflowClientCertificate\CertificateUser.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
