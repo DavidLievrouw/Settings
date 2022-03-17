@@ -18,6 +18,7 @@
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.InvalidOperationException" />
               <option value="System.FormatException" />
+              <option value="System.ArgumentOutOfRangeException" />
             </list>
           </option>
         </configuration>
