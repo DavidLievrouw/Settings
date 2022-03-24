@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DocumentView.Utils\Extensions.Enumerable.cs'" />
-    <option name="defaultScopeName" value="File '…\DocumentView.Utils\Extensions.Enumerable.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Utils\Extensions.Enumerable.cs'" />
+    <option name="customScope" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\LookupFieldNameResolverTests.cs'" />
+    <option name="defaultScopeName" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\LookupFieldNameResolverTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\LookupFieldNameResolverTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
