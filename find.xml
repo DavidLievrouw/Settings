@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\SessionModelParserTests.cs'" />
-    <option name="defaultScopeName" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\SessionModelParserTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\SessionModelParserTests.cs'" />
+    <option name="customScope" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\DisplayTextAddingSessionModelVisitorTests.cs'" />
+    <option name="defaultScopeName" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\DisplayTextAddingSessionModelVisitorTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\DisplayTextAddingSessionModelVisitorTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
