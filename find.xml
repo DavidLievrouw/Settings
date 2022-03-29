@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.Tests\RecurringJobs\WorkflowTasksSync\BatchedRunManualWorkItemsProviderDecoratorTests.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\RecurringJobs\WorkflowTasksSync\BatchedRunManualWorkItemsProviderDecoratorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\RecurringJobs\WorkflowTasksSync\BatchedRunManualWorkItemsProviderDecoratorTests.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.Tests\RecurringJobs\WorkflowTasksSync\RangedWorkflowTaskSyncerFactoryTests.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\RecurringJobs\WorkflowTasksSync\RangedWorkflowTaskSyncerFactoryTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\RecurringJobs\WorkflowTasksSync\RangedWorkflowTaskSyncerFactoryTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
