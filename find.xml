@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\PostInstall.ps1'" />
-    <option name="defaultScopeName" value="File '…\PostInstall.ps1'" />
-    <option name="SEARCH_SCOPE" value="File '…\PostInstall.ps1'" />
+    <option name="customScope" value="File '…\PreInstall.ps1'" />
+    <option name="defaultScopeName" value="File '…\PreInstall.ps1'" />
+    <option name="SEARCH_SCOPE" value="File '…\PreInstall.ps1'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
