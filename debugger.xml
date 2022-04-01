@@ -19,6 +19,7 @@
               <option value="System.InvalidOperationException" />
               <option value="System.FormatException" />
               <option value="System.ArgumentOutOfRangeException" />
+              <option value="RecoMatics.WF10.Mods.Support.Data.FileShare.Models.FileShareException" />
             </list>
           </option>
         </configuration>
