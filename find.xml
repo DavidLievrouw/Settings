@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Localisation\Models\UpsertTranslationCommandResponse.cs'" />
-    <option name="defaultScopeName" value="File '…\Localisation\Models\UpsertTranslationCommandResponse.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Localisation\Models\UpsertTranslationCommandResponse.cs'" />
+    <option name="customScope" value="File '…\Localisation.Tests\Services\NotificationSendingTranslationServiceTests\Update.cs'" />
+    <option name="defaultScopeName" value="File '…\Localisation.Tests\Services\NotificationSendingTranslationServiceTests\Update.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Localisation.Tests\Services\NotificationSendingTranslationServiceTests\Update.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
