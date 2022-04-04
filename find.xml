@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Configuration\Migration\M0072_AddWf10ApiUriToLocalisation.cs'" />
-    <option name="defaultScopeName" value="File '…\Configuration\Migration\M0072_AddWf10ApiUriToLocalisation.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Configuration\Migration\M0072_AddWf10ApiUriToLocalisation.cs'" />
+    <option name="customScope" value="File '…\Localisation\Models\UpsertTranslationCommandResponse.cs'" />
+    <option name="defaultScopeName" value="File '…\Localisation\Models\UpsertTranslationCommandResponse.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Localisation\Models\UpsertTranslationCommandResponse.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
