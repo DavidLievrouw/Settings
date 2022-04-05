@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DocumentView.Tests\EventHandling\TranslationsChangedEventHandlerTests.cs'" />
-    <option name="defaultScopeName" value="File '…\DocumentView.Tests\EventHandling\TranslationsChangedEventHandlerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Tests\EventHandling\TranslationsChangedEventHandlerTests.cs'" />
+    <option name="customScope" value="File '…\Localisation.Tests\Services\TranslationServiceTests\TranslationServiceTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Localisation.Tests\Services\TranslationServiceTests\TranslationServiceTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Localisation.Tests\Services\TranslationServiceTests\TranslationServiceTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
