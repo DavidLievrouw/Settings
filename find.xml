@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.Tests\Api\Controllers\Documents\DocumentsControllerTests.ForceSync.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\Api\Controllers\Documents\DocumentsControllerTests.ForceSync.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\Api\Controllers\Documents\DocumentsControllerTests.ForceSync.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.RecurringJobs\StatusSynchronization\StatusSynchronization.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.RecurringJobs\StatusSynchronization\StatusSynchronization.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.RecurringJobs\StatusSynchronization\StatusSynchronization.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
