@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Extensions.Utils.Tests\ExtensionsTests.AddAllMappers.cs'" />
-    <option name="defaultScopeName" value="File '…\Extensions.Utils.Tests\ExtensionsTests.AddAllMappers.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Extensions.Utils.Tests\ExtensionsTests.AddAllMappers.cs'" />
+    <option name="customScope" value="File '…\Extensions.Utils.Tests\ExtensionsTests.AddAllSettingsProviders.cs'" />
+    <option name="defaultScopeName" value="File '…\Extensions.Utils.Tests\ExtensionsTests.AddAllSettingsProviders.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Extensions.Utils.Tests\ExtensionsTests.AddAllSettingsProviders.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
