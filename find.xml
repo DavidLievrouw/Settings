@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\ArchiveWorker.Tests\UI\Controllers\Home\HomeControllerTests.AfterSignOut.cs'" />
-    <option name="defaultScopeName" value="File '…\ArchiveWorker.Tests\UI\Controllers\Home\HomeControllerTests.AfterSignOut.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\ArchiveWorker.Tests\UI\Controllers\Home\HomeControllerTests.AfterSignOut.cs'" />
+    <option name="customScope" value="File '…\DataWarehouseWorker.Tests\UI\Controllers\Home\HomeControllerTests.AfterSignOut.cs'" />
+    <option name="defaultScopeName" value="File '…\DataWarehouseWorker.Tests\UI\Controllers\Home\HomeControllerTests.AfterSignOut.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DataWarehouseWorker.Tests\UI\Controllers\Home\HomeControllerTests.AfterSignOut.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
