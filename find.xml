@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\CachingLookupBindingsExtractorTests.cs'" />
-    <option name="defaultScopeName" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\CachingLookupBindingsExtractorTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\CachingLookupBindingsExtractorTests.cs'" />
+    <option name="customScope" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\LookupBindingsCacheTests.cs'" />
+    <option name="defaultScopeName" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\LookupBindingsCacheTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Tests\Api\Controllers\Sessions\Services\LookupBindingsCacheTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
