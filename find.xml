@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\DocumentView.Data.Workflow10Api\Services\SessionDataService.cs'" />
-    <option name="defaultScopeName" value="File '…\DocumentView.Data.Workflow10Api\Services\SessionDataService.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\DocumentView.Data.Workflow10Api\Services\SessionDataService.cs'" />
+    <option name="customScope" value="File '…\HelloWorldMod\EventHandlers\UserUpdateHandler.cs'" />
+    <option name="defaultScopeName" value="File '…\HelloWorldMod\EventHandlers\UserUpdateHandler.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\HelloWorldMod\EventHandlers\UserUpdateHandler.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
