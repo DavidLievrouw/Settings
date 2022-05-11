@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.UtilityServices\ForcedSynchronizationWorker.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.UtilityServices\ForcedSynchronizationWorker.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.UtilityServices\ForcedSynchronizationWorker.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.Tests\EventHandling\Services\ForcedTaskSyncerTests.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\EventHandling\Services\ForcedTaskSyncerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\EventHandling\Services\ForcedTaskSyncerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
