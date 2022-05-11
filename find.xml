@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.EventHandling\Services\ReassignGuard.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.EventHandling\Services\ReassignGuard.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.EventHandling\Services\ReassignGuard.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.Tests\Api\Controllers\Documents\Handlers\ForceSyncHandlerTests.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\Api\Controllers\Documents\Handlers\ForceSyncHandlerTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\Api\Controllers\Documents\Handlers\ForceSyncHandlerTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
