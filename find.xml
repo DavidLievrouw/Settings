@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\AdminSDK\Builders\ClaimsTransformations\Permission.cs'" />
-    <option name="defaultScopeName" value="File '…\AdminSDK\Builders\ClaimsTransformations\Permission.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\AdminSDK\Builders\ClaimsTransformations\Permission.cs'" />
+    <option name="customScope" value="File '…\AdminSDK.Tests\Models\RoleTests.cs'" />
+    <option name="defaultScopeName" value="File '…\AdminSDK.Tests\Models\RoleTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\AdminSDK.Tests\Models\RoleTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
