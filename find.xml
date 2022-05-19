@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\FunctionalTests.Configuration\Program.cs'" />
-    <option name="defaultScopeName" value="File '…\FunctionalTests.Configuration\Program.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\FunctionalTests.Configuration\Program.cs'" />
+    <option name="customScope" value="File '…\LoCoCo.Data.AdminSdk.Tests\Mappers\RecurringJobClassNameMapperTests.cs'" />
+    <option name="defaultScopeName" value="File '…\LoCoCo.Data.AdminSdk.Tests\Mappers\RecurringJobClassNameMapperTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Data.AdminSdk.Tests\Mappers\RecurringJobClassNameMapperTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
