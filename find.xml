@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.Tests\RecurringJobs\RenamedBuiltInRecurringJobBlockerTests.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\RecurringJobs\RenamedBuiltInRecurringJobBlockerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\RecurringJobs\RenamedBuiltInRecurringJobBlockerTests.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.RecurringJobs\RenamedBuiltInRecurringJobBlocker.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.RecurringJobs\RenamedBuiltInRecurringJobBlocker.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.RecurringJobs\RenamedBuiltInRecurringJobBlocker.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
