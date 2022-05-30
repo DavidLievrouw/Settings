@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Sample.NetFramework'" />
-    <option name="defaultScopeName" value="Project 'Sample.NetFramework'" />
-    <option name="SEARCH_SCOPE" value="Project 'Sample.NetFramework'" />
+    <option name="customScope" value="File '…\WorkflowWorkerClient\Parts\Applications\IApplicationsPart.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorkerClient\Parts\Applications\IApplicationsPart.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorkerClient\Parts\Applications\IApplicationsPart.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
