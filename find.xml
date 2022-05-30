@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\LoCoCo.Data.AdminSdk\Mappers\Clients\ClientMapper.cs'" />
-    <option name="defaultScopeName" value="File '…\LoCoCo.Data.AdminSdk\Mappers\Clients\ClientMapper.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Data.AdminSdk\Mappers\Clients\ClientMapper.cs'" />
+    <option name="customScope" value="File '…\LoCoCo.Domain\Models\Yaml\ClientYaml.cs'" />
+    <option name="defaultScopeName" value="File '…\LoCoCo.Domain\Models\Yaml\ClientYaml.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Domain\Models\Yaml\ClientYaml.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
