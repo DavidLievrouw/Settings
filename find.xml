@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\LoCoCo.Domain\Mappers\Clients\IClaimMapper.cs'" />
-    <option name="defaultScopeName" value="File '…\LoCoCo.Domain\Mappers\Clients\IClaimMapper.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Domain\Mappers\Clients\IClaimMapper.cs'" />
+    <option name="customScope" value="File '…\LoCoCo.Tests\Mappers\Clients\ClientMapperTests.cs'" />
+    <option name="defaultScopeName" value="File '…\LoCoCo.Tests\Mappers\Clients\ClientMapperTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Tests\Mappers\Clients\ClientMapperTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
