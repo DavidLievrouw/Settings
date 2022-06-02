@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\NotifyStressTester\RetryingDiscoveryDocumentDataService.cs'" />
-    <option name="defaultScopeName" value="File '…\NotifyStressTester\RetryingDiscoveryDocumentDataService.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\NotifyStressTester\RetryingDiscoveryDocumentDataService.cs'" />
+    <option name="customScope" value="File '…\NotifyStressTester\Counter.cs'" />
+    <option name="defaultScopeName" value="File '…\NotifyStressTester\Counter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\NotifyStressTester\Counter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
