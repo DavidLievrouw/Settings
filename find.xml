@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\ValueResolver.Formatting.Tests\ExtensionsTests.IValueResolver.cs'" />
-    <option name="defaultScopeName" value="File '…\ValueResolver.Formatting.Tests\ExtensionsTests.IValueResolver.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\ValueResolver.Formatting.Tests\ExtensionsTests.IValueResolver.cs'" />
+    <option name="customScope" value="File '…\ValueResolver.Formatting\FormatOptions.cs'" />
+    <option name="defaultScopeName" value="File '…\ValueResolver.Formatting\FormatOptions.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\ValueResolver.Formatting\FormatOptions.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
