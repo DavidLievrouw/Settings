@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'RecoMatics.EasyForm.Data'" />
-    <option name="defaultScopeName" value="Project 'RecoMatics.EasyForm.Data'" />
-    <option name="SEARCH_SCOPE" value="Project 'RecoMatics.EasyForm.Data'" />
+    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\MasterDataSync\AsyncUpdateAllLookupsStarterTests.cs'" />
+    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\MasterDataSync\AsyncUpdateAllLookupsStarterTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\MasterDataSync\AsyncUpdateAllLookupsStarterTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
