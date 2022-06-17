@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Api.Client'" />
-    <option name="defaultScopeName" value="Project 'Api.Client'" />
-    <option name="SEARCH_SCOPE" value="Project 'Api.Client'" />
+    <option name="customScope" value="File '…\Api.Client.Tests\Jobs\JobStatusQueryServiceTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Api.Client.Tests\Jobs\JobStatusQueryServiceTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Api.Client.Tests\Jobs\JobStatusQueryServiceTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
