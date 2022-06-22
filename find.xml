@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\MasterDataSync\CsvToListConverterTests.cs'" />
-    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\MasterDataSync\CsvToListConverterTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api.Tests\Business\Services\MasterDataSync\CsvToListConverterTests.cs'" />
+    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api\Controllers\Adapters\CsvOptionsAdapter.cs'" />
+    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api\Controllers\Adapters\CsvOptionsAdapter.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api\Controllers\Adapters\CsvOptionsAdapter.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
