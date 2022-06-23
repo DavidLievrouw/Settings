@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\LoCoCo.Data.AdminSdk.Tests\Services\EventListenerRulesProviderTests.cs'" />
-    <option name="defaultScopeName" value="File '…\LoCoCo.Data.AdminSdk.Tests\Services\EventListenerRulesProviderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Data.AdminSdk.Tests\Services\EventListenerRulesProviderTests.cs'" />
+    <option name="customScope" value="File '…\Extensions.EventHandling.Workflow10.Tests\Services\RuleEngineFacadeTests.cs'" />
+    <option name="defaultScopeName" value="File '…\Extensions.EventHandling.Workflow10.Tests\Services\RuleEngineFacadeTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Extensions.EventHandling.Workflow10.Tests\Services\RuleEngineFacadeTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
