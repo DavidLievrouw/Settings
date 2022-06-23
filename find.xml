@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\EasyForm.WF10.IntegrationInMemory.Tests\Wf10Setup\VerticalWf10ConnectionFixtureWithDefaultData.cs'" />
-    <option name="defaultScopeName" value="File '…\EasyForm.WF10.IntegrationInMemory.Tests\Wf10Setup\VerticalWf10ConnectionFixtureWithDefaultData.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\EasyForm.WF10.IntegrationInMemory.Tests\Wf10Setup\VerticalWf10ConnectionFixtureWithDefaultData.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
