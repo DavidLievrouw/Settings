@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Portal.Data\DatabaseConnection.cs'" />
-    <option name="defaultScopeName" value="File '…\Portal.Data\DatabaseConnection.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Portal.Data\DatabaseConnection.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
