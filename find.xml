@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Deploy-Workflow'" />
-    <option name="defaultScopeName" value="Project 'Deploy-Workflow'" />
-    <option name="SEARCH_SCOPE" value="Project 'Deploy-Workflow'" />
+    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S092_DocumentFieldEqualsLineFieldAdditionalCondition\DocTypeSecurityTests.cs'" />
+    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S092_DocumentFieldEqualsLineFieldAdditionalCondition\DocTypeSecurityTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S092_DocumentFieldEqualsLineFieldAdditionalCondition\DocTypeSecurityTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
