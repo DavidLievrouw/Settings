@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Deploy-Workflow\Verbs\UpdateCerts\UpdateCertsOrchestrator.cs'" />
-    <option name="defaultScopeName" value="File '…\Deploy-Workflow\Verbs\UpdateCerts\UpdateCertsOrchestrator.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Deploy-Workflow\Verbs\UpdateCerts\UpdateCertsOrchestrator.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
