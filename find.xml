@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\RecoMatics.EasyForm.Data\MongoDb\DataStores\LookupStore.cs'" />
-    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Data\MongoDb\DataStores\LookupStore.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Data\MongoDb\DataStores\LookupStore.cs'" />
+    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S098_DocumentCreateFailure\Tests.cs'" />
+    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S098_DocumentCreateFailure\Tests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api.SystemTests\Scenarios\S098_DocumentCreateFailure\Tests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
