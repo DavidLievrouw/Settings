@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.IntegrationTests\Data\UploadedProcessDefinitionDataServiceTests.Save.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.IntegrationTests\Data\UploadedProcessDefinitionDataServiceTests.Save.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.IntegrationTests\Data\UploadedProcessDefinitionDataServiceTests.Save.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.Api\Controllers\ProcessDefinitions\Services\UploadAndPublishAppCache.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.Api\Controllers\ProcessDefinitions\Services\UploadAndPublishAppCache.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Api\Controllers\ProcessDefinitions\Services\UploadAndPublishAppCache.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
