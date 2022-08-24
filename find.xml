@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.Api\Controllers\ProcessDefinitions\Services\ProcessDefinitionNameExtractor.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.Api\Controllers\ProcessDefinitions\Services\ProcessDefinitionNameExtractor.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Api\Controllers\ProcessDefinitions\Services\ProcessDefinitionNameExtractor.cs'" />
+    <option name="customScope" value="File '…\Extensions.Utils\Extensions.Stream.cs'" />
+    <option name="defaultScopeName" value="File '…\Extensions.Utils\Extensions.Stream.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Extensions.Utils\Extensions.Stream.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
