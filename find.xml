@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.SystemTests\Api\Controllers\ProcessDefinitions\ProcessDefinitionsControllerTests.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.SystemTests\Api\Controllers\ProcessDefinitions\ProcessDefinitionsControllerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.SystemTests\Api\Controllers\ProcessDefinitions\ProcessDefinitionsControllerTests.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorker.SystemTests\Api\Controllers\ProcessDefinitions\ProcessDefinitionsControllerTests.UploadProcessDefinition.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorker.SystemTests\Api\Controllers\ProcessDefinitions\ProcessDefinitionsControllerTests.UploadProcessDefinition.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.SystemTests\Api\Controllers\ProcessDefinitions\ProcessDefinitionsControllerTests.UploadProcessDefinition.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
