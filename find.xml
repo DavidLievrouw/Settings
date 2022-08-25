@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Migrator'" />
-    <option name="defaultScopeName" value="Project 'Migrator'" />
-    <option name="SEARCH_SCOPE" value="Project 'Migrator'" />
+    <option name="customScope" value="File '…\Migrator\Scenarios\IScenario.cs'" />
+    <option name="defaultScopeName" value="File '…\Migrator\Scenarios\IScenario.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Migrator\Scenarios\IScenario.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
