@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorker.Tests\Api\Controllers\AgilePointApps\Handlers\ForceUpdateUploadAndPublishAppHandlerTests.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorker.Tests\Api\Controllers\AgilePointApps\Handlers\ForceUpdateUploadAndPublishAppHandlerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorker.Tests\Api\Controllers\AgilePointApps\Handlers\ForceUpdateUploadAndPublishAppHandlerTests.cs'" />
+    <option name="customScope" value="File '…\WorkflowWorkerClient\Parts\AgilePointApps\LoggingAgilePointAppsPart.cs'" />
+    <option name="defaultScopeName" value="File '…\WorkflowWorkerClient\Parts\AgilePointApps\LoggingAgilePointAppsPart.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorkerClient\Parts\AgilePointApps\LoggingAgilePointAppsPart.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
