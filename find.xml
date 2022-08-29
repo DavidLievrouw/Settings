@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\WorkflowWorkerClient\Parts\AgilePointApps\LoggingAgilePointAppsPart.cs'" />
-    <option name="defaultScopeName" value="File '…\WorkflowWorkerClient\Parts\AgilePointApps\LoggingAgilePointAppsPart.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\WorkflowWorkerClient\Parts\AgilePointApps\LoggingAgilePointAppsPart.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
