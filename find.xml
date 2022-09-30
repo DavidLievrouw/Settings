@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\LoCoCo.Data.AdminSdk.Tests\Services\Lookup\LookupDefinitionIndexerTests.cs'" />
-    <option name="defaultScopeName" value="File '…\LoCoCo.Data.AdminSdk.Tests\Services\Lookup\LookupDefinitionIndexerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Data.AdminSdk.Tests\Services\Lookup\LookupDefinitionIndexerTests.cs'" />
+    <option name="customScope" value="File '…\LoCoCo.Data.AdminSdk\Services\Lookup\LookupDefinitionIndexer.cs'" />
+    <option name="defaultScopeName" value="File '…\LoCoCo.Data.AdminSdk\Services\Lookup\LookupDefinitionIndexer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LoCoCo.Data.AdminSdk\Services\Lookup\LookupDefinitionIndexer.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
