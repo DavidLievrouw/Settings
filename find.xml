@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SystemTests'" />
-    <option name="defaultScopeName" value="Project 'SystemTests'" />
-    <option name="SEARCH_SCOPE" value="Project 'SystemTests'" />
+    <option name="customScope" value="File '…\SystemTests\Scenarios\S094_IntSerialization_Issue26291\Tests.cs'" />
+    <option name="defaultScopeName" value="File '…\SystemTests\Scenarios\S094_IntSerialization_Issue26291\Tests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\SystemTests\Scenarios\S094_IntSerialization_Issue26291\Tests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
