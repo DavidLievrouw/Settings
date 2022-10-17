@@ -1,13 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'RecoMatics.EasyForm.Api.LoCoCoTests'" />
+    <option name="defaultScopeName" value="Project 'RecoMatics.EasyForm.Api.LoCoCoTests'" />
+    <option name="SEARCH_SCOPE" value="Project 'RecoMatics.EasyForm.Api.LoCoCoTests'" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.csproj</mask>
-    <mask>*.cs</mask>
     <mask>*.yml</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
