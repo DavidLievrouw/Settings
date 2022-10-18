@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\RecoMatics.EasyForm.Api.LoCoCoTests\Scenarios\LoCoCoTestFixture.cs'" />
-    <option name="defaultScopeName" value="File '…\RecoMatics.EasyForm.Api.LoCoCoTests\Scenarios\LoCoCoTestFixture.cs'" />
+    <option name="customScope" value="Project 'RecoMatics.EasyForm.Api.SystemTests'" />
+    <option name="defaultScopeName" value="Project 'RecoMatics.EasyForm.Api.SystemTests'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\RecoMatics.EasyForm.Api.LoCoCoTests\Scenarios\LoCoCoTestFixture.cs'" />
+    <option name="SEARCH_SCOPE" value="Project 'RecoMatics.EasyForm.Api.SystemTests'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
