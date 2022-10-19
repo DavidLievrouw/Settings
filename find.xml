@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Core.Tests\HealthChecks\DocumentLinkUpdateRuleHealthCheckServices\SessionOutputTypeProviderTests.cs'" />
-    <option name="defaultScopeName" value="File '…\Core.Tests\HealthChecks\DocumentLinkUpdateRuleHealthCheckServices\SessionOutputTypeProviderTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Core.Tests\HealthChecks\DocumentLinkUpdateRuleHealthCheckServices\SessionOutputTypeProviderTests.cs'" />
+    <option name="customScope" value="File '…\ArchiveWorker.Tests\Startup\CompositionTests.cs'" />
+    <option name="defaultScopeName" value="File '…\ArchiveWorker.Tests\Startup\CompositionTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\ArchiveWorker.Tests\Startup\CompositionTests.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
