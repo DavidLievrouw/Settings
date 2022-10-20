@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\LoCoCoVersionChecker\ILatestVersionAcquirer.cs'" />
-    <option name="defaultScopeName" value="File '…\LoCoCoVersionChecker\ILatestVersionAcquirer.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\LoCoCoVersionChecker\ILatestVersionAcquirer.cs'" />
+    <option name="customScope" value="File '…\LoCoCoVersionChecker\ForGetLatestLoCoCoVersion\LatestVersionAcquirer.cs'" />
+    <option name="defaultScopeName" value="File '…\LoCoCoVersionChecker\ForGetLatestLoCoCoVersion\LatestVersionAcquirer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\LoCoCoVersionChecker\ForGetLatestLoCoCoVersion\LatestVersionAcquirer.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
