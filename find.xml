@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\ValueResolver\PropertyHelpers\MethodAccessorStore.cs'" />
-    <option name="defaultScopeName" value="File '…\ValueResolver\PropertyHelpers\MethodAccessorStore.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\ValueResolver\PropertyHelpers\MethodAccessorStore.cs'" />
+    <option name="customScope" value="Project 'ValueResolver'" />
+    <option name="defaultScopeName" value="Project 'ValueResolver'" />
+    <option name="SEARCH_SCOPE" value="Project 'ValueResolver'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
