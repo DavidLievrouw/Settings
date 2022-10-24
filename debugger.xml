@@ -15,6 +15,7 @@
               <option value="System.Threading.Tasks.TaskCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.Web.Http.HttpResponseException" />
+              <option value="System.InvalidOperationException" />
             </list>
           </option>
         </configuration>
