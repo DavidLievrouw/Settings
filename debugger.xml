@@ -16,6 +16,8 @@
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.Web.Http.HttpResponseException" />
               <option value="System.InvalidOperationException" />
+              <option value="System.ArgumentNullException" />
+              <option value="System.ArgumentException" />
             </list>
           </option>
         </configuration>
