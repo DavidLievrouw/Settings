@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Filtering'" />
-    <option name="defaultScopeName" value="Project 'Filtering'" />
-    <option name="SEARCH_SCOPE" value="Project 'Filtering'" />
+    <option name="customScope" value="File '…\Filtering\Extensions.Object.cs'" />
+    <option name="defaultScopeName" value="File '…\Filtering\Extensions.Object.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Filtering\Extensions.Object.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
